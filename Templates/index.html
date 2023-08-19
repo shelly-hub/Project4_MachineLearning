@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Cushings Disease Predictor Model</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+          <div class="col-md-12 jumbotron text-center">
+            <div id="title-page">
+              <h1>Cushings Disease Predictor Model</h1>
+            </div>
+            <div id="subtitles-page">
+              <p>Input your canine patient's clinical data to predict their Cushings Disease diagnosis</p>
+            </div>
+          </div>
+        </div>
+      <div class="col-md-4">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Patient Info</h3>
+          </div>
+          <form action="{{ url_for('predict')}}" method="POST"></form>
+            <div id="sample-data" class="panel-body">
+              <div>
+                <h5>Breed:</h5>
+                <select id="selDatasetBreed" onchange="optionChangedBreed(this.value)" name="Breed"></select>
+              </div>
+              <div>
+                <h5>Age (Years):
+                <select id="selDatasetAge" onchange="optionChangedAge(this.value)" name="Age"></select></h5>
+              </div>
+              <div>
+                <h5>Weight (kg): <input type='number' id='Weight' step="0.1" placeholder="To 1 decimal place" name="Weight"></h5>
+              </div>
+              <div>
+                <h5>Weight Change:
+                <select id="selDatasetWeightChange" onchange="optionChangedWeightChange(this.value)" name="WeightChange"></select></h5>
+              </div>            
+              <div>
+                <h5>Sex: 
+                <select id="selDatasetSex" onchange="optionChangedSex(this.value)" name="Sex"></select></h5>
+              </div>
+              <div>
+                <h5>Neutered: 
+                <select id="selDatasetNeutered" onchange="optionChangedNeutered(this.value)" name="Neutered"></select></h5>
+              </div>
+              <div>
+                <h5>Hospitalised: 
+                <select id="selDatasetHospitalised" onchange="optionChangedHospitalised(this.value)" name="Hospitalised"></select></h5>
+              </div>
+              <div>
+                <h5>Vomiting: 
+                <select id="selDatasetVomiting" onchange="optionChangedVomiting(this.value)" name="Vomiting"></select></h5>
+              </div>
+              <div>
+                <h5>Diarrhoea: 
+                <select id="selDatasetDiarrhoea" onchange="optionChangedDiarrhoea(this.value)" name="Diarrhoea"></select></h5>
+              </div>
+              <div>
+                <h5>Hepatomegaly: 
+                <select id="selDatasetHepatomegaly" onchange="optionChangedHepatomegaly(this.value)" name="Hepatomegaly"></select></h5>
+              </div>
+              <div>
+                <h5>ThinDrySkin: 
+                <select id="selDatasetThinDrySkin" onchange="optionChangedThinDrySkin(this.value)" name="ThinDrySkin"></select></h5>
+              </div>
+              <div>
+                <h5>Alopecia: 
+                <select id="selDatasetAlopecia" onchange="optionChangedAlopecia(this.value)" name="Alopecia"></select></h5>
+              </div>
+              <div>
+                <h5>Pruritus: 
+                <select id="selDatasetPruritus" onchange="optionChangedPruritus(this.value)" name="Pruritus"></select></h5>
+              </div>
+              <div>
+                <h5>Muscle Wastage/Weakness: 
+                <select id="selDatasetMuscleWastageWeakness" onchange="optionChangedMuscleWastageWeakness(this.value)" name="MuscleWastageWeakness"></select></h5>
+              </div>
+              <div>
+                <h5>Lethargy: 
+                <select id="selDatasetLethargy" onchange="optionChangedLethargy(this.value)" name="Lethargy"></select></h5>
+              </div>
+              <div>
+                <h5>Panting: 
+                <select id="selDatasetPanting" onchange="optionChangedPanting(this.value)" name="Panting"></select></h5>
+              </div>
+              <div>
+                <h5>Neurological: 
+                <select id="selDatasetNeurological" onchange="optionChangedNeurological(this.value)" name="Neurological"></select></h5>
+              </div>
+              <div>
+                <h5>Polydipsia: 
+                <select id="selDatasetPolydipsia" onchange="optionChangedPolydipsia(this.value)" name="Polydipsia"></select></h5>
+              </div>
+              <div>
+                <h5>Polyuria: 
+                <select id="selDatasetPolyuria" onchange="optionChangedPolyuria(this.value)" name="Polyuria"></select></h5>
+              </div>
+              <div>
+                <h5>Polyphagia: 
+                <select id="selDatasetPolyphagia" onchange="optionChangedPolyphagia(this.value)" name="Polyphagia"></select></h5>
+              </div>
+              <div>
+                <h5>Increased ALKP: 
+                <select id="selDatasetIncreasedALKP" onchange="optionChangedIncreasedALKP(this.value)" name="IncreasedALKP"></select></h5>
+              </div>
+              <div>
+                <h5>Increased ALT/GGT/AST: 
+                <select id="selDatasetIncreasedATL_GGT_AST" onchange="optionChangedIncreasedATL_GGT_AST(this.value)" name="IncreasedATL_GGT_AST"></select></h5>
+              </div>
+              <div>
+                <h5>Hypertensive: 
+                <select id="selDatasetHypertensive" onchange="optionChangedHypertensive(this.value)" name="Hypertensive"></select></h5>
+              </div>
+              <div>
+                <h5>Low Blood Sugar: 
+                <select id="selDatasetLowBloodSugar" onchange="optionChangedLowBloodSugar(this.value)" name="LowBloodSugar"></select></h5>
+              </div>
+              <div>
+                <h5>Hypothyroidism: 
+                <select id="selDatasetHypothyroid" onchange="optionChangedHypothyroid(this.value)" name="Hypothyroid"></select></h5>
+              </div>
+              <div>
+                <h5>Previously received Cruciate Surgery: 
+                <select id="selDatasetCruciateSurgery" onchange="optionChangedCruciateSurgery(this.value)" name="CruciateSurgery"></select></h5>
+              </div>
+            </div>
+            <div class="well">
+              <div class="container-fluid">
+                <input type='submit' value="Predict" class="'btn-info">
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="col-md-8">
+        <h3><b>Prediction</b></h3>
+          <div>
+            <p>Predicted result: {{ result_prediction }} </p>
+          </div>
+      </div>
+    </div> 
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/1.33.1/plotly.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='summary.js') }}"></script>
+
+</body>
+  
+</html>

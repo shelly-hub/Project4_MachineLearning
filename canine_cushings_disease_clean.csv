@@ -1,0 +1,1162 @@
+PatientID,Diagnosis,Breed,Age,Sex,Neutered,WeightChange,Weight,Hospitalised,Vomiting,Diarrhoea,Hepatomegaly,ThinDrySkin,Alopecia,Pruritus,MuscleWastageWeakness,Lethargy,Panting,Neurological,Polydipsia,Polyuria,Polyphagia,IncreasedALKP,IncreasedATL_GGT_AST,Hypertensive,LowBloodSugar,Hypothyroid,CruciateSurgery
+1,1,Jack Russell Terrier,12,M,True,No change,13.0,False,False,False,False,True,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+2,1,Bichon Frise,12,F,True,No change,9.3,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+3,1,West Highland White Terrier,13,F,True,No change,9.82,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+4,1,Cocker Spaniel,12,F,True,No change,11.3,True,False,False,True,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+5,1,Crossbreed,9,F,False,No change,9.3,False,False,True,True,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+6,1,Border Terrier,17,M,True,No change,,False,False,False,True,False,False,False,True,False,False,True,True,True,True,,,False,False,False,False
+7,1,Labrador Retriever,11,F,True,Weight gain,33.2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,True,False
+8,1,Crossbreed,13,F,False,No change,12.4,False,False,False,True,False,False,False,False,False,True,True,False,False,False,True,True,False,False,False,False
+9,1,Others,10,F,False,No change,39.75,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+10,1,Staffordshire Bull Terrier,11,F,True,No change,20.3,False,False,False,True,False,False,False,True,False,True,False,True,False,False,,,False,False,False,False
+11,1,Schnauzer,8,F,False,No change,9.1,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+12,1,Crossbreed,6,M,False,Weight loss,58.0,False,False,False,True,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+13,1,Shih Tzu,13,F,True,No change,12.3,False,False,False,False,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+14,1,Border Terrier,7,F,True,No change,10.8,True,True,False,False,False,False,False,False,True,True,False,False,False,False,True,,False,True,False,False
+15,1,Staffordshire Bull Terrier,11,M,False,Weight gain,26.5,True,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+16,1,Crossbreed,14,M,False,Weight gain,16.2,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+17,1,Crossbreed,14,M,True,No change,16.3,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+18,1,Others,9,F,True,No change,10.6,False,False,False,True,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+19,1,Staffordshire Bull Terrier,10,M,False,Weight loss,17.8,False,False,False,True,False,True,False,True,False,True,False,False,False,False,True,False,False,False,False,False
+20,1,Others,8,M,True,No change,15.25,True,False,False,True,False,False,False,False,True,False,False,True,True,True,True,True,False,False,False,False
+21,1,Others,10,M,True,Weight loss,17.0,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+22,1,Jack Russell Terrier,13,M,True,No change,8.82,False,False,False,False,False,True,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+23,1,West Highland White Terrier,13,M,True,No change,10.3,False,False,True,True,False,False,False,True,False,False,False,True,True,False,True,True,False,False,False,False
+24,1,Staffordshire Bull Terrier,7,M,False,No change,31.8,False,True,False,True,True,False,False,True,False,False,False,True,True,True,True,,False,False,False,False
+25,1,Crossbreed,14,F,False,No change,8.8,True,False,False,True,False,True,False,False,False,False,False,False,False,False,True,True,False,True,False,False
+26,1,Cavalier King Charles Spaniel,7,M,True,No change,10.8,True,False,False,True,False,False,False,False,False,False,False,False,False,False,,,True,False,False,False
+27,1,Crossbreed,3,F,False,No change,21.3,False,False,False,False,False,True,True,False,False,False,False,True,False,True,,,False,False,False,False
+28,1,Border Terrier,12,M,False,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+29,1,Crossbreed,14,F,True,No change,7.5,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+30,1,Jack Russell Terrier,11,M,True,Weight gain,9.57,False,False,False,True,True,True,False,False,False,False,True,False,False,False,,,False,False,False,False
+31,1,Yorkshire Terrier,4,M,True,No change,10.4,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+32,1,West Highland White Terrier,6,M,True,Weight loss,11.6,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False
+33,1,Border Terrier,8,M,True,No change,14.05,False,False,False,True,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+34,1,Springer Spaniel,12,F,False,No change,20.7,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+35,1,Border Terrier,9,M,True,No change,12.0,False,False,False,True,True,False,False,True,False,False,False,True,True,False,True,False,False,False,False,False
+36,1,Bichon Frise,11,M,True,Weight gain,10.0,True,False,False,True,False,False,False,False,False,True,False,True,True,True,,,False,False,False,True
+37,1,Others,9,M,True,No change,57.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,True,False
+38,1,Yorkshire Terrier,13,F,False,No change,6.5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+39,1,Yorkshire Terrier,11,F,True,No change,,False,False,False,True,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+40,1,Shih Tzu,10,M,True,No change,10.1,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,,False,False,False,False
+41,1,Boxer,6,M,False,No change,,False,False,False,True,True,True,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+42,1,Border Terrier,10,F,True,Weight loss,9.9,True,False,False,False,False,False,False,False,True,False,False,True,True,True,True,True,False,True,False,False
+43,1,Others,10,M,False,No change,48.7,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+44,1,Yorkshire Terrier,11,F,True,No change,8.6,False,False,False,False,True,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+45,1,Cocker Spaniel,13,F,True,No change,20.0,True,False,False,False,True,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+46,1,Jack Russell Terrier,13,F,True,No change,6.15,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+47,1,Cavalier King Charles Spaniel,11,F,False,No change,11.9,False,False,False,True,False,False,False,True,True,True,True,True,True,False,True,True,False,False,False,False
+48,1,Jack Russell Terrier,11,F,True,No change,8.0,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+49,1,Jack Russell Terrier,10,M,False,Weight gain,16.2,False,False,False,True,True,False,False,False,False,False,False,True,True,False,True,True,False,False,True,False
+50,1,Springer Spaniel,12,F,True,Weight loss,20.7,False,False,False,True,False,True,False,False,False,False,False,True,True,True,True,,False,False,False,False
+51,1,Jack Russell Terrier,12,F,True,No change,4.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+52,1,Schnauzer,13,F,False,No change,13.0,False,False,False,True,False,True,False,False,False,True,False,True,True,True,,,False,False,False,False
+53,1,Shih Tzu,14,F,True,No change,5.72,False,False,False,True,True,True,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+54,1,Shih Tzu,11,M,True,No change,,False,False,False,True,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+55,1,West Highland White Terrier,11,F,True,No change,8.45,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+56,1,Bichon Frise,8,F,True,Weight gain,9.98,False,False,False,False,True,False,False,False,True,False,False,False,False,True,,,False,False,False,False
+57,1,Crossbreed,10,F,False,Weight loss,3.5,False,False,False,False,True,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+58,1,Crossbreed,8,M,False,No change,23.5,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+59,1,Others,13,F,True,Weight loss,12.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+60,1,Crossbreed,11,F,True,Weight gain,10.05,False,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,False,False,False,False
+61,1,Jack Russell Terrier,13,F,False,No change,8.3,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+62,1,West Highland White Terrier,14,F,True,No change,10.7,False,False,True,True,False,True,False,False,True,True,False,True,True,False,,,False,False,False,True
+63,1,Staffordshire Bull Terrier,10,M,True,No change,34.0,False,False,False,True,False,False,False,True,True,False,False,False,False,False,,,False,False,False,False
+64,1,Border Terrier,13,M,False,No change,,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+65,1,Yorkshire Terrier,10,M,False,No change,6.3,False,False,False,True,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+66,1,Jack Russell Terrier,13,F,True,No change,5.86,True,False,False,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+67,1,Crossbreed,11,M,False,No change,10.7,True,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+68,1,Staffordshire Bull Terrier,8,M,True,No change,29.4,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+69,1,Border Terrier,8,F,True,Weight loss,10.2,False,False,False,False,True,True,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+70,1,Crossbreed,13,M,False,No change,24.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+71,1,West Highland White Terrier,10,F,True,No change,7.9,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+72,1,Yorkshire Terrier,12,F,True,No change,13.85,False,False,False,True,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+73,1,Crossbreed,9,M,False,No change,23.7,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False
+74,1,Crossbreed,12,F,True,No change,19.8,True,False,True,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+75,1,Boxer,8,M,True,No change,39.9,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+76,1,Crossbreed,11,M,True,Weight loss,9.0,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,,False,False,False,False
+77,1,Crossbreed,12,M,False,No change,10.7,False,False,False,True,False,True,False,True,True,False,False,False,False,True,,,False,False,False,False
+78,1,Others,8,F,True,No change,40.45,False,False,False,True,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+79,1,Staffordshire Bull Terrier,8,M,True,Weight loss,,False,False,False,True,True,False,False,True,False,False,False,True,True,False,True,False,False,False,False,False
+80,1,Crossbreed,12,F,True,No change,15.7,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+81,1,Jack Russell Terrier,13,M,True,No change,9.3,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+82,1,Poodle,14,F,True,No change,6.2,True,False,False,False,True,False,False,False,True,False,False,True,True,True,True,True,False,False,True,False
+83,1,Crossbreed,8,F,False,No change,11.9,True,False,False,True,True,True,False,False,False,True,False,True,False,True,True,,False,False,False,False
+84,1,Border Terrier,15,F,True,No change,11.3,True,False,False,False,False,False,False,False,False,True,False,False,False,False,,,False,True,False,False
+85,1,Cavalier King Charles Spaniel,12,M,False,No change,10.35,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,True,False,False,False,False
+86,1,Others,10,F,True,No change,12.9,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+87,1,Crossbreed,16,M,False,No change,11.1,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+88,1,Jack Russell Terrier,9,F,True,No change,10.4,False,False,False,True,False,False,False,False,False,False,True,True,True,False,True,True,False,False,False,False
+89,1,Others,8,M,True,No change,,False,False,False,False,False,False,False,False,False,True,False,True,True,True,True,True,False,False,False,False
+90,1,Collie,11,M,True,No change,27.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+91,1,Crossbreed,9,F,False,Weight gain,12.1,False,False,False,True,True,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+92,1,Crossbreed,8,F,True,Weight gain,38.4,False,False,True,True,False,True,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+93,1,Jack Russell Terrier,12,F,True,No change,,False,False,False,True,False,False,False,True,True,True,True,True,True,False,,,False,False,False,False
+94,1,Staffordshire Bull Terrier,13,F,True,Weight loss,16.15,False,False,False,False,True,True,False,True,False,False,False,False,False,False,,,False,False,False,False
+95,1,Crossbreed,9,F,True,Weight gain,44.8,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+96,1,Others,15,F,True,No change,7.2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+97,1,Bichon Frise,11,M,True,No change,9.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+98,1,Others,12,F,True,No change,4.8,False,False,False,False,False,False,False,False,True,False,False,True,True,True,True,True,False,False,False,False
+99,1,Crossbreed,9,M,False,No change,19.0,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+100,1,Poodle,11,F,True,No change,12.8,False,False,False,True,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+101,1,Others,12,M,True,No change,15.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+102,1,Crossbreed,11,F,True,No change,11.75,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True
+103,1,Poodle,14,F,True,No change,22.6,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+104,1,Crossbreed,6,F,True,No change,8.2,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+105,1,Bichon Frise,10,F,True,No change,8.2,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+106,1,Others,8,F,True,Weight loss,8.9,False,False,False,False,True,True,False,False,True,False,False,False,False,False,,,False,False,False,False
+107,1,Crossbreed,15,F,True,No change,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+108,1,Others,13,M,False,No change,13.5,False,False,False,True,False,False,False,True,False,True,False,True,True,False,,,False,False,False,False
+109,1,Jack Russell Terrier,13,M,True,No change,,True,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+110,1,Cocker Spaniel,11,M,True,No change,15.2,False,False,True,False,False,False,False,False,True,True,False,True,True,True,True,False,False,False,False,False
+111,1,Crossbreed,12,F,True,No change,10.3,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+112,1,Staffordshire Bull Terrier,14,F,False,No change,22.0,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,True,False,False,False,False
+113,1,Yorkshire Terrier,13,F,True,No change,3.85,False,False,True,True,False,True,False,False,False,True,False,False,False,False,,,False,False,False,False
+114,1,Border Terrier,8,F,False,No change,10.1,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+115,1,West Highland White Terrier,12,F,True,No change,7.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+116,1,Crossbreed,7,F,True,No change,12.2,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+117,1,Jack Russell Terrier,12,M,True,Weight gain,,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+118,1,Yorkshire Terrier,8,F,False,No change,5.68,False,False,False,True,True,True,False,False,False,False,False,True,False,True,,,False,False,False,False
+119,1,Bichon Frise,9,F,True,No change,10.1,False,False,False,True,False,False,False,False,False,False,False,True,False,True,,,False,False,False,False
+120,1,Bichon Frise,8,M,True,No change,13.6,True,True,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+121,1,Staffordshire Bull Terrier,13,F,True,No change,,True,False,False,True,False,False,False,True,True,True,False,True,True,False,,,False,True,False,False
+122,1,Labrador Retriever,11,M,True,No change,37.45,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+123,1,Bichon Frise,10,M,False,No change,11.4,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+124,1,Crossbreed,13,F,True,Weight loss,6.9,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+125,1,Others,3,M,False,Weight gain,6.8,False,False,False,True,False,True,False,False,True,False,False,False,False,False,,,False,False,False,False
+126,1,Springer Spaniel,8,F,True,Weight gain,25.1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+127,1,Others,14,F,False,No change,10.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+128,1,Crossbreed,13,F,True,No change,19.6,False,False,False,True,True,False,False,False,False,True,False,True,True,True,,,False,False,True,False
+129,1,Others,12,M,True,Weight gain,7.8,False,False,False,True,True,True,False,True,False,True,False,False,False,False,True,,False,False,False,False
+130,1,Staffordshire Bull Terrier,11,M,False,Weight loss,,False,False,True,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+131,1,Staffordshire Bull Terrier,10,F,True,No change,23.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+132,1,Others,11,F,True,Weight gain,10.45,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+133,1,Border Terrier,8,F,True,No change,10.5,False,False,False,True,True,True,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+134,1,West Highland White Terrier,12,F,False,No change,8.86,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+135,1,Others,11,M,False,No change,15.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+136,1,Staffordshire Bull Terrier,12,M,True,No change,,False,False,False,True,True,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+137,1,Bichon Frise,7,F,False,No change,5.9,False,False,False,True,True,True,False,True,False,False,False,True,True,True,,,False,False,False,False
+138,1,Shih Tzu,14,M,True,No change,,False,False,False,True,False,False,False,True,False,True,False,True,True,True,,,False,False,False,False
+139,1,Crossbreed,11,F,True,No change,,False,True,False,True,True,True,False,False,True,False,False,True,True,False,,,False,False,False,False
+140,1,Crossbreed,11,M,True,Weight gain,,False,False,False,True,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+141,1,Bichon Frise,15,M,True,No change,,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+142,1,Crossbreed,15,M,True,Weight gain,10.8,False,False,False,False,True,False,False,True,True,False,True,False,False,True,,,False,False,False,False
+143,1,Border Terrier,11,F,False,No change,10.2,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False
+144,1,Crossbreed,14,F,True,No change,13.2,False,False,False,False,False,True,False,False,False,True,False,True,True,False,,,False,False,False,False
+145,1,Others,11,F,False,No change,40.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+146,1,Others,9,F,False,No change,6.9,True,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+147,1,Border Terrier,7,F,True,No change,11.9,False,False,False,True,True,True,True,False,False,False,False,True,False,False,,,False,False,False,False
+148,1,Schnauzer,11,M,True,Weight gain,,False,False,False,True,False,True,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+149,1,Jack Russell Terrier,14,M,True,No change,11.1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+150,1,Others,14,M,True,No change,10.7,False,False,False,True,True,True,False,False,False,False,True,True,True,True,True,True,False,False,False,False
+151,1,Crossbreed,9,M,True,No change,13.3,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+152,1,Others,14,F,True,No change,23.35,False,False,False,False,False,False,False,True,False,False,False,True,True,False,True,True,False,False,False,False
+153,1,Border Terrier,13,M,True,Weight loss,12.8,False,False,False,False,False,False,False,True,False,False,False,True,True,False,True,True,False,False,False,False
+154,1,Others,12,F,True,No change,29.8,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+155,1,Others,9,M,False,Weight loss,7.8,False,False,False,True,True,True,False,True,True,False,True,True,True,False,True,True,False,False,False,False
+156,1,Others,10,M,False,No change,29.1,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False
+157,1,Staffordshire Bull Terrier,9,F,False,No change,20.1,False,False,True,True,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+158,1,Crossbreed,7,F,False,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+159,1,Yorkshire Terrier,14,F,True,No change,3.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+160,1,Others,6,F,False,No change,,False,False,False,False,True,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+161,1,Jack Russell Terrier,9,F,True,No change,12.2,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+162,1,Collie,10,M,True,No change,,True,True,False,True,True,False,False,True,True,False,False,True,True,False,,,False,False,False,False
+163,1,Border Terrier,10,F,False,No change,8.9,False,False,False,True,False,False,False,False,True,True,True,True,False,True,True,,False,False,False,False
+164,1,Crossbreed,10,F,True,No change,26.8,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+165,1,Bichon Frise,10,M,True,Weight gain,,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+166,1,Springer Spaniel,13,F,True,No change,33.7,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+167,1,Others,13,M,True,No change,,False,False,False,False,False,False,False,False,False,True,False,True,False,False,,,False,False,False,False
+168,1,Collie,14,F,False,No change,24.0,False,False,False,False,True,True,False,True,True,False,False,True,True,False,,,False,False,False,False
+169,1,Jack Russell Terrier,9,M,False,No change,10.0,False,True,True,True,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+170,1,Staffordshire Bull Terrier,10,F,True,Weight gain,28.7,False,False,False,True,False,True,True,True,False,False,False,True,True,True,,,False,False,False,False
+171,1,Bichon Frise,12,F,True,No change,6.2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+172,1,Boxer,13,F,True,No change,29.3,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+173,1,Crossbreed,7,F,False,No change,9.7,False,False,False,True,False,True,False,False,False,False,False,True,True,False,False,True,False,False,False,False
+174,1,Schnauzer,11,F,True,No change,11.04,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,,False,False,False,False
+175,1,Others,13,F,False,No change,24.0,True,False,False,True,False,True,False,False,False,False,False,True,True,True,True,False,False,False,False,False
+176,1,Crossbreed,10,M,True,No change,31.1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+177,1,Others,13,F,True,No change,7.2,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False
+178,1,Cocker Spaniel,9,F,True,Weight gain,21.2,False,False,False,True,False,False,False,True,False,False,False,False,False,True,True,True,True,False,False,False
+179,1,Jack Russell Terrier,7,M,True,No change,10.35,False,False,False,True,True,False,False,True,False,False,False,True,True,False,False,True,False,False,False,False
+180,1,Bichon Frise,9,M,False,Weight loss,8.1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+181,1,Others,13,F,True,No change,26.0,False,False,False,False,True,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+182,1,Crossbreed,11,M,True,No change,,False,False,False,False,True,True,False,False,False,True,False,False,False,False,,,False,False,False,False
+183,1,Crossbreed,12,F,True,No change,22.9,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+184,1,Shih Tzu,9,M,True,No change,12.3,False,False,False,False,True,True,False,False,False,True,False,True,False,False,False,True,False,False,False,False
+185,1,Crossbreed,9,M,True,No change,9.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True
+186,1,Cavalier King Charles Spaniel,10,M,False,No change,13.0,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+187,1,Others,8,M,True,No change,13.2,False,False,False,True,False,True,False,True,False,False,False,True,True,True,,,False,False,False,False
+188,1,Jack Russell Terrier,8,M,True,No change,10.2,False,False,False,True,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+189,1,Others,12,F,True,No change,9.75,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+190,1,Others,11,M,False,No change,8.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,True,False,False,False,False
+191,1,Jack Russell Terrier,13,F,False,No change,7.45,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+192,1,Crossbreed,7,F,True,No change,9.7,False,False,False,True,False,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+193,1,Crossbreed,3,F,False,No change,7.7,False,False,False,False,True,True,False,False,False,False,False,True,True,True,True,,False,False,False,False
+194,1,Bichon Frise,13,F,True,No change,7.05,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,False,False,False
+195,1,Crossbreed,13,F,True,No change,20.7,False,False,False,True,True,True,False,False,False,True,False,True,True,True,True,True,False,False,False,False
+196,1,Others,8,M,True,No change,39.9,False,False,False,False,False,False,False,False,True,False,False,True,True,False,,,False,False,True,False
+197,1,Others,9,M,True,No change,14.4,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+198,1,Jack Russell Terrier,10,M,True,No change,5.7,False,False,False,False,False,True,False,False,False,False,False,True,True,True,False,True,False,False,False,False
+199,1,Yorkshire Terrier,12,F,True,No change,5.45,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+200,1,Staffordshire Bull Terrier,5,M,True,No change,19.5,False,False,False,False,False,False,False,True,True,True,True,True,True,False,True,,False,False,False,True
+201,1,Shih Tzu,13,M,False,No change,13.1,False,False,False,True,True,True,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+202,1,Crossbreed,11,M,True,No change,10.6,False,True,True,False,False,True,True,False,False,True,False,True,True,False,True,,False,False,False,False
+203,1,Others,4,M,True,No change,42.95,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+204,1,Border Terrier,9,M,False,No change,11.15,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+205,1,Border Terrier,10,F,True,No change,12.5,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+206,1,Cavalier King Charles Spaniel,8,F,True,No change,9.4,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+207,1,Labrador Retriever,9,F,False,Weight loss,20.1,False,False,False,True,True,False,False,True,True,False,False,False,False,False,True,True,False,False,False,False
+208,1,Jack Russell Terrier,15,F,True,No change,7.45,False,False,False,True,True,False,False,False,False,True,False,True,True,False,True,False,False,False,False,False
+209,1,Crossbreed,10,M,True,No change,25.5,False,False,False,False,True,True,True,False,False,False,False,True,True,False,True,True,False,False,False,False
+210,1,Yorkshire Terrier,12,M,False,No change,5.5,False,False,True,True,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+211,1,Shih Tzu,7,M,False,No change,10.9,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,,False,False,False,False
+212,1,Crossbreed,16,F,False,No change,15.0,False,False,False,False,False,True,False,False,False,True,False,True,True,False,,True,False,False,False,False
+213,1,Bichon Frise,13,M,False,No change,11.7,False,True,True,True,False,False,False,False,False,True,False,True,True,False,True,False,False,False,False,False
+214,1,Crossbreed,10,F,True,Weight loss,21.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,True,False,False,False,False
+215,1,Staffordshire Bull Terrier,11,F,True,Weight loss,20.3,False,False,False,True,True,True,False,True,False,False,False,True,True,True,True,True,False,False,False,False
+216,1,Collie,15,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+217,1,Bichon Frise,7,M,True,No change,9.4,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+218,1,Springer Spaniel,8,M,True,No change,22.45,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+219,1,Others,13,M,False,No change,10.0,False,False,False,False,True,True,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+220,1,Staffordshire Bull Terrier,12,M,False,No change,18.5,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+221,1,Others,10,M,True,Weight gain,10.85,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+222,1,Crossbreed,10,M,True,No change,12.0,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False
+223,1,Staffordshire Bull Terrier,11,F,False,Weight loss,17.4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,True,False,False
+224,1,Others,11,M,True,No change,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+225,1,Boxer,10,F,True,No change,33.85,False,False,False,False,False,False,False,False,True,True,False,True,False,True,True,True,False,False,False,False
+226,1,Others,5,M,False,No change,25.1,False,False,False,False,True,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+227,1,Crossbreed,9,F,False,Weight loss,30.4,False,False,True,True,False,False,False,True,False,True,False,False,False,False,True,False,False,False,False,False
+228,1,West Highland White Terrier,9,F,True,Weight gain,10.79,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+229,1,Others,10,F,True,Weight gain,18.2,False,False,False,True,True,True,True,False,False,True,False,False,False,False,,,False,False,True,False
+230,1,Staffordshire Bull Terrier,11,F,True,Weight loss,19.1,False,False,False,True,False,False,False,False,True,False,False,True,True,True,True,True,False,False,False,False
+231,1,West Highland White Terrier,12,M,True,No change,9.54,False,False,False,True,True,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+232,1,Cocker Spaniel,7,M,True,Weight loss,20.0,False,False,False,True,False,True,False,False,False,False,False,True,True,True,False,True,False,False,False,False
+233,1,Others,10,M,True,Weight loss,19.3,False,False,True,False,True,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+234,1,Jack Russell Terrier,11,M,True,No change,11.0,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+235,1,Crossbreed,13,F,False,No change,,False,False,False,True,False,True,False,True,False,True,False,True,True,True,,,False,False,False,False
+236,1,Crossbreed,9,F,True,Weight gain,11.8,False,False,False,False,True,False,False,False,True,True,False,True,True,True,,,False,False,False,False
+237,1,Crossbreed,10,M,True,No change,21.6,False,False,False,True,False,False,False,True,True,True,False,False,False,False,True,False,False,False,False,False
+238,1,Yorkshire Terrier,7,M,False,No change,3.13,False,False,False,True,True,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+239,1,Border Terrier,7,F,True,Weight loss,7.95,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,,False,False,False,False
+240,1,Bichon Frise,11,M,True,No change,12.6,False,False,False,True,False,False,False,False,False,True,False,False,False,False,,,False,False,False,False
+241,1,Bichon Frise,11,F,True,Weight loss,6.65,False,False,True,True,True,True,False,False,True,False,False,True,True,False,,,False,False,False,False
+242,1,Bichon Frise,7,M,True,No change,15.4,False,False,True,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+243,1,Shih Tzu,6,F,True,No change,8.8,False,False,False,True,True,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+244,1,Others,9,M,False,No change,14.4,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,True,False,False,False,False
+245,1,Others,9,F,True,No change,9.5,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+246,1,Crossbreed,11,M,True,No change,16.2,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+247,1,Border Terrier,11,M,False,No change,13.85,False,False,False,True,False,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+248,1,Boxer,10,F,True,No change,27.7,False,False,False,False,True,True,False,False,False,False,False,True,True,False,,,False,False,True,False
+249,1,Crossbreed,9,M,True,No change,7.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+250,1,Schnauzer,10,M,True,No change,7.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+251,1,Others,11,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+252,1,Bichon Frise,7,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+253,1,Jack Russell Terrier,9,M,False,No change,9.1,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False
+254,1,Staffordshire Bull Terrier,8,M,False,Weight loss,16.0,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+255,1,Others,9,F,True,No change,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False
+256,1,Staffordshire Bull Terrier,12,F,True,No change,19.8,True,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,False,False
+257,1,Boxer,10,F,True,No change,23.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+258,1,Crossbreed,14,F,False,Weight loss,,False,False,False,False,True,True,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+259,1,Bichon Frise,12,M,True,No change,10.05,False,False,False,True,True,True,False,False,True,False,False,False,False,False,,,False,False,False,False
+260,1,Jack Russell Terrier,11,M,False,No change,8.4,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+261,1,Staffordshire Bull Terrier,8,F,False,No change,30.0,False,True,False,True,False,True,False,False,False,False,False,True,False,False,True,,False,False,False,False
+262,1,Yorkshire Terrier,15,F,False,No change,3.6,False,False,False,True,True,True,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+263,1,Border Terrier,9,M,True,No change,11.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+264,1,Crossbreed,14,F,True,No change,14.8,False,False,False,True,True,False,False,False,False,True,False,True,True,True,True,True,False,False,False,False
+265,1,Jack Russell Terrier,6,F,False,No change,8.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+266,1,Bichon Frise,6,F,True,No change,6.76,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+267,1,Staffordshire Bull Terrier,10,M,True,No change,29.8,True,False,False,False,False,False,False,False,False,True,False,False,True,False,True,,False,False,False,False
+268,1,Crossbreed,12,F,True,No change,44.0,False,False,False,True,False,False,False,False,True,True,False,True,True,True,True,,False,False,False,False
+269,1,Border Terrier,9,F,True,No change,9.6,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+270,1,Crossbreed,10,M,False,No change,11.4,False,False,False,True,False,False,True,False,False,True,True,True,True,False,,,False,False,False,False
+271,1,Labrador Retriever,14,F,True,No change,32.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+272,1,Poodle,13,F,True,Weight gain,8.85,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+273,1,Staffordshire Bull Terrier,10,M,True,No change,,False,False,False,True,False,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+274,1,Staffordshire Bull Terrier,10,M,False,No change,,True,True,False,True,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+275,1,Jack Russell Terrier,13,F,True,Weight loss,5.9,False,False,False,True,False,False,False,False,True,True,True,True,True,True,True,True,False,False,False,False
+276,1,Springer Spaniel,9,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,,False,False,False,False
+277,1,Crossbreed,13,F,False,No change,9.98,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+278,1,Others,11,M,True,No change,9.1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+279,1,Others,12,M,True,No change,18.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+280,1,Crossbreed,9,F,True,No change,7.1,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,False,False,False,False,False
+281,1,Schnauzer,11,F,False,No change,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True
+282,1,Shih Tzu,11,M,False,No change,7.7,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+283,1,Bichon Frise,7,F,False,Weight loss,,False,True,False,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+284,1,Chihuahua,11,M,False,No change,1.71,False,False,False,True,True,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+285,1,Others,9,F,False,No change,50.6,False,False,False,True,True,True,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+286,1,Labrador Retriever,5,M,True,No change,34.2,False,True,True,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+287,1,Others,12,F,True,No change,8.55,False,True,True,False,False,False,False,False,False,False,False,True,False,False,True,,False,False,False,False
+288,1,Yorkshire Terrier,11,M,False,No change,,False,False,False,True,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+289,1,Shih Tzu,12,M,True,No change,9.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+290,1,Yorkshire Terrier,7,F,True,No change,3.8,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+291,1,Others,10,M,True,No change,14.95,True,False,False,True,False,False,False,False,True,True,False,True,True,False,,,False,False,False,False
+292,1,Collie,4,F,True,No change,,False,False,True,False,False,False,False,False,True,False,False,True,False,False,,,False,False,False,False
+293,1,Yorkshire Terrier,12,F,False,No change,7.0,False,False,False,True,False,True,False,False,False,False,False,True,True,False,True,,False,False,False,False
+294,1,Boxer,10,M,False,No change,37.6,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+295,1,Others,10,M,True,No change,,True,False,False,False,True,True,False,True,False,False,False,False,False,False,True,,False,False,False,False
+296,1,Bichon Frise,12,M,True,No change,6.4,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+297,1,Cavalier King Charles Spaniel,8,M,True,No change,,False,False,True,True,True,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+298,1,Bichon Frise,10,M,True,Weight gain,12.0,False,False,False,False,False,True,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+299,1,Others,12,F,True,No change,33.9,True,False,False,False,False,False,False,True,False,True,False,True,True,True,True,,False,False,False,False
+300,1,Staffordshire Bull Terrier,13,F,False,No change,20.4,False,False,False,True,True,True,False,False,True,True,False,True,True,False,True,False,False,False,False,False
+301,1,Bichon Frise,10,F,True,No change,8.6,True,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+302,1,Others,9,F,True,No change,47.7,False,False,False,False,True,True,False,False,False,False,False,True,True,True,,True,False,False,False,False
+303,1,Others,11,M,True,No change,5.8,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False
+304,1,Crossbreed,9,M,True,Weight loss,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+305,1,Others,11,M,False,No change,9.2,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+306,1,Staffordshire Bull Terrier,9,M,True,Weight loss,,False,False,False,False,True,False,False,True,False,True,False,True,True,False,,,False,False,False,False
+307,1,Springer Spaniel,12,F,True,No change,20.9,False,True,False,False,False,False,False,True,True,False,False,True,True,False,,,False,False,False,False
+308,1,Jack Russell Terrier,12,F,False,No change,6.5,False,False,False,True,False,True,False,False,True,False,False,True,True,True,True,True,False,False,False,False
+309,1,Staffordshire Bull Terrier,12,M,True,No change,32.6,False,False,False,False,False,False,False,True,False,True,False,True,True,True,True,True,False,False,False,False
+310,1,Crossbreed,8,M,False,No change,12.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+311,1,Crossbreed,8,M,True,No change,31.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+312,1,Border Terrier,11,F,True,No change,12.4,True,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+313,1,Labrador Retriever,9,F,True,No change,32.5,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+314,1,Crossbreed,11,M,True,No change,17.4,False,False,False,True,True,True,False,True,False,False,False,True,True,False,True,True,False,False,False,False
+315,1,Collie,9,F,True,No change,30.2,True,False,False,True,True,True,False,False,False,False,False,False,False,True,,,False,False,False,False
+316,1,Others,8,M,True,No change,15.75,False,True,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+317,1,Shih Tzu,10,F,True,No change,9.5,False,False,False,True,False,True,False,False,False,False,False,True,False,True,True,False,False,False,False,False
+318,1,Crossbreed,12,M,False,Weight gain,30.0,False,False,False,False,False,False,False,True,False,False,False,True,True,False,True,True,False,False,False,False
+319,1,West Highland White Terrier,9,F,True,No change,9.5,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,,False,False,False,False
+320,1,Others,6,M,False,No change,16.4,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+321,1,Crossbreed,10,M,True,No change,19.7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+322,1,Border Terrier,5,F,True,Weight gain,13.8,False,False,False,True,False,True,False,False,False,False,False,True,True,True,,,False,False,True,False
+323,1,Crossbreed,15,F,True,No change,14.45,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+324,1,Others,8,F,False,No change,8.0,False,False,False,True,True,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+325,1,Bichon Frise,11,M,True,Weight loss,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+326,1,Shih Tzu,13,M,True,No change,10.25,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+327,1,Border Terrier,11,F,True,No change,8.1,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,,False,False,False,False
+328,1,Jack Russell Terrier,12,F,True,No change,8.5,False,False,False,True,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+329,1,Crossbreed,12,F,True,No change,32.35,False,False,False,True,True,False,True,False,True,False,False,False,False,False,,,False,False,False,False
+330,1,Others,10,M,True,No change,11.1,False,False,False,True,False,False,False,False,True,False,False,True,False,False,,,False,False,False,False
+331,1,Springer Spaniel,11,M,True,No change,17.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+332,1,Others,14,M,True,No change,15.4,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,,False,False,False,False
+333,1,Others,10,M,True,No change,11.7,False,False,False,True,False,True,False,False,False,False,False,False,False,False,True,,False,False,False,False
+334,1,Border Terrier,13,F,True,No change,9.5,False,False,False,True,False,False,False,True,True,True,False,True,False,True,True,True,False,False,False,False
+335,1,Crossbreed,10,M,True,No change,22.4,True,False,False,False,True,True,False,False,True,False,False,True,True,False,True,True,True,False,False,False
+336,1,Border Terrier,11,M,True,No change,9.1,False,True,True,True,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False,False
+337,1,West Highland White Terrier,10,F,False,No change,8.4,False,False,False,False,False,False,False,True,False,False,False,True,True,False,,,False,False,False,False
+338,1,Jack Russell Terrier,13,M,True,No change,10.0,False,False,True,True,True,False,False,False,False,True,False,True,True,True,,,False,False,False,False
+339,1,Crossbreed,15,F,True,No change,11.7,False,False,False,True,True,True,False,True,False,False,False,True,True,False,,,False,False,False,False
+340,1,Jack Russell Terrier,9,F,False,No change,10.0,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False
+341,1,Jack Russell Terrier,10,F,True,No change,19.0,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+342,1,Staffordshire Bull Terrier,11,F,True,No change,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+343,1,Crossbreed,11,F,True,No change,10.7,True,False,False,True,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+344,1,Yorkshire Terrier,14,M,False,No change,7.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+345,1,Schnauzer,9,F,True,No change,10.8,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True
+346,1,Cavalier King Charles Spaniel,8,M,True,No change,20.45,False,False,False,False,True,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+347,1,Labrador Retriever,11,F,True,No change,29.8,False,False,False,False,False,False,False,False,False,True,False,True,False,True,True,True,False,False,False,False
+348,1,Others,7,M,False,Weight gain,9.45,False,False,False,False,False,True,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+349,1,Chihuahua,11,M,True,Weight gain,,False,False,False,True,False,False,False,False,False,True,False,True,True,True,,,False,False,False,False
+350,1,Others,8,F,True,No change,12.65,False,False,False,True,False,True,False,False,True,False,False,True,True,False,,,False,False,False,False
+351,1,Border Terrier,10,M,True,No change,7.6,True,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,True,False,False
+352,1,Others,9,M,True,No change,10.25,False,False,True,True,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+353,1,Crossbreed,9,M,True,No change,9.1,False,False,False,True,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+354,1,Springer Spaniel,8,M,True,No change,20.5,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,True,False,False,False,False
+355,1,West Highland White Terrier,10,M,False,No change,12.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+356,1,Jack Russell Terrier,13,F,True,No change,,True,False,False,True,True,True,False,False,True,False,False,True,True,True,,,False,False,False,False
+357,1,Shih Tzu,4,M,True,No change,11.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+358,1,Bichon Frise,11,M,True,No change,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+359,1,Jack Russell Terrier,10,F,False,Weight gain,10.1,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False
+360,1,Crossbreed,9,F,True,No change,6.69,True,False,False,True,True,True,False,True,False,False,False,False,False,False,,,False,False,False,False
+361,1,Cavalier King Charles Spaniel,9,F,True,Weight loss,13.4,False,False,False,False,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+362,1,Schnauzer,9,M,False,No change,14.6,False,False,False,True,True,False,False,False,True,True,False,True,True,False,True,True,False,False,False,False
+363,1,Jack Russell Terrier,11,M,True,Weight loss,15.2,False,True,False,True,True,True,False,True,False,False,False,True,True,False,True,False,False,False,False,True
+364,1,Others,6,M,True,Weight loss,11.2,False,False,False,False,False,True,False,False,False,False,False,False,True,False,True,,False,False,False,False
+365,1,Staffordshire Bull Terrier,15,F,True,Weight loss,,True,False,False,False,False,False,False,True,False,True,False,True,True,False,,,False,False,False,True
+366,1,Crossbreed,11,M,True,No change,20.6,True,False,False,False,False,False,False,False,True,False,False,True,False,False,True,True,False,False,False,False
+367,1,Schnauzer,9,M,True,No change,9.9,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+368,1,Bichon Frise,12,M,True,Weight loss,6.26,False,False,False,False,True,True,False,False,True,True,False,True,True,True,True,,False,False,False,False
+369,1,Crossbreed,12,M,True,No change,18.5,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+370,1,Yorkshire Terrier,14,M,True,No change,,False,False,False,True,True,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+371,1,Chihuahua,11,M,True,No change,4.13,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+372,1,Shih Tzu,14,F,True,No change,7.65,True,False,False,False,False,False,False,False,True,False,False,False,False,False,True,,False,False,False,False
+373,1,Schnauzer,9,M,True,Weight gain,12.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+374,1,Yorkshire Terrier,7,M,False,No change,3.6,False,False,False,False,False,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+375,1,Staffordshire Bull Terrier,10,M,False,No change,23.75,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+376,1,Labrador Retriever,12,F,True,No change,34.4,True,False,True,True,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False
+377,1,Crossbreed,12,F,False,No change,27.4,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,True,False,False,False,False
+378,1,West Highland White Terrier,4,F,False,No change,8.85,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,True,False,False,False,False
+379,1,Jack Russell Terrier,9,F,True,No change,7.06,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+380,1,Crossbreed,15,F,True,No change,8.4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,True,False,False,False
+381,1,Shih Tzu,9,M,True,No change,12.0,False,True,True,False,False,True,False,False,True,True,False,True,True,False,True,True,False,False,False,False
+382,1,Bichon Frise,12,F,False,No change,8.4,False,False,False,True,False,True,False,True,False,True,False,True,True,True,,,False,False,False,False
+383,1,Cavalier King Charles Spaniel,9,M,False,No change,11.7,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+384,1,Jack Russell Terrier,10,M,True,No change,7.25,False,False,False,True,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+385,1,Shih Tzu,8,F,True,Weight loss,4.0,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+386,1,Crossbreed,8,F,True,No change,8.3,False,False,False,True,True,True,False,False,False,True,False,False,True,True,,,False,False,False,False
+387,1,Crossbreed,14,F,True,Weight gain,12.4,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,True
+388,1,Border Terrier,12,F,True,No change,9.5,False,False,False,True,False,False,False,False,True,False,False,True,False,False,True,,False,False,False,False
+389,1,Staffordshire Bull Terrier,8,F,False,Weight gain,19.1,False,False,False,False,False,True,False,True,True,False,False,False,False,True,,True,False,False,False,False
+390,1,Schnauzer,6,M,True,Weight loss,7.6,False,True,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+391,1,Jack Russell Terrier,9,M,True,Weight gain,10.5,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+392,1,Schnauzer,10,F,True,Weight gain,10.5,False,False,False,True,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+393,1,Bichon Frise,10,M,True,Weight gain,13.3,False,False,False,False,False,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+394,1,Staffordshire Bull Terrier,13,M,True,No change,31.6,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False
+395,1,Cocker Spaniel,13,M,True,No change,19.2,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+396,1,Crossbreed,12,F,True,No change,24.6,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+397,1,Bichon Frise,8,F,True,No change,5.9,True,False,False,False,True,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+398,1,Others,8,F,True,No change,10.36,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+399,1,Yorkshire Terrier,13,M,True,No change,,False,False,False,True,True,False,False,True,False,True,False,False,False,False,,,False,False,False,False
+400,1,Poodle,8,F,False,Weight loss,3.05,False,False,False,True,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+401,1,Collie,16,F,True,No change,30.6,False,False,True,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+402,1,Crossbreed,13,F,True,No change,24.4,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,True,True,False,False
+403,1,Boxer,8,M,True,No change,31.4,False,False,False,True,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+404,1,Others,14,M,False,No change,10.7,False,False,False,True,False,False,False,False,True,True,False,True,False,True,True,True,False,False,False,False
+405,1,Crossbreed,15,F,True,No change,10.68,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+406,1,Others,9,F,True,Weight gain,,False,False,False,True,True,False,False,False,False,True,False,False,False,False,,,False,False,False,False
+407,1,Chihuahua,6,M,False,No change,2.5,False,False,False,False,True,False,True,False,False,False,False,False,False,False,,,False,False,False,False
+408,1,Crossbreed,8,F,False,No change,30.6,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,,False,False,False,False
+409,1,Jack Russell Terrier,9,F,False,No change,8.64,False,False,False,True,True,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+410,1,Others,11,F,True,No change,8.8,False,True,False,True,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+411,1,Others,10,M,False,No change,18.9,False,False,False,True,False,False,False,True,False,True,True,True,True,False,True,True,False,False,False,False
+412,1,Crossbreed,4,F,False,Weight gain,15.2,False,False,False,True,False,True,False,False,True,True,False,True,False,True,True,True,False,False,False,False
+413,1,Labrador Retriever,10,M,True,No change,,True,False,False,False,False,False,False,False,False,False,True,False,False,False,,,False,False,False,False
+414,1,Crossbreed,13,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+415,1,Others,1,F,False,No change,21.1,True,False,False,False,True,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+416,1,Others,13,F,False,No change,43.0,False,False,True,True,True,False,False,False,False,False,False,False,True,False,,,False,False,True,False
+417,1,Border Terrier,9,M,True,No change,14.5,True,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+418,1,Crossbreed,13,M,True,No change,11.85,False,False,False,True,False,False,False,True,True,True,False,True,True,False,True,True,False,False,False,False
+419,1,Schnauzer,10,M,True,No change,9.8,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+420,1,Crossbreed,7,M,True,No change,10.75,False,False,True,True,True,True,False,False,True,False,False,True,True,False,True,False,False,False,False,False
+421,1,Others,7,F,True,No change,56.25,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+422,1,Labrador Retriever,9,F,False,No change,37.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+423,1,Others,9,F,True,No change,14.2,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+424,1,Bichon Frise,11,M,True,No change,9.2,True,True,False,False,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+425,1,Crossbreed,15,F,True,No change,7.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,True
+426,1,Bichon Frise,10,M,False,No change,11.26,True,False,False,True,False,True,False,False,False,False,False,False,False,False,True,,False,False,False,True
+427,1,Staffordshire Bull Terrier,13,F,True,No change,20.2,False,False,False,False,True,False,False,False,True,True,False,True,True,False,,,False,False,False,False
+428,1,Others,11,F,False,Weight loss,33.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+429,1,Crossbreed,7,F,True,No change,9.3,False,False,False,True,False,False,False,False,True,True,False,True,True,False,True,True,False,False,False,False
+430,1,Jack Russell Terrier,12,M,True,No change,7.5,False,False,False,False,False,True,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+431,1,West Highland White Terrier,14,M,True,No change,9.45,False,False,False,False,False,False,False,False,False,False,False,False,True,True,,,False,False,False,False
+432,1,Cocker Spaniel,7,F,True,No change,,True,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+433,1,Others,11,F,True,No change,9.8,False,False,False,False,False,True,False,False,True,False,False,True,True,True,,,False,False,True,False
+434,1,Crossbreed,9,M,True,No change,29.05,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+435,1,Others,12,F,True,No change,12.8,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+436,1,Crossbreed,11,F,True,Weight loss,18.05,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+437,1,Yorkshire Terrier,12,F,True,No change,8.55,False,False,False,True,False,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+438,1,Others,13,M,True,No change,35.0,False,False,False,False,False,False,False,False,True,True,False,True,True,False,,,False,False,False,False
+439,1,Bichon Frise,6,M,True,No change,8.7,False,False,False,False,False,False,False,False,True,False,False,True,False,True,True,True,False,False,True,False
+440,1,Boxer,7,M,True,Weight loss,,True,False,False,False,False,True,False,False,False,False,False,True,False,True,True,True,False,False,False,False
+441,1,Cocker Spaniel,9,M,True,No change,9.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+442,1,Jack Russell Terrier,8,F,False,No change,10.0,False,False,False,True,True,True,False,True,False,False,False,False,False,False,,,False,False,False,False
+443,1,Others,11,M,True,No change,34.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+444,1,Jack Russell Terrier,10,F,True,Weight gain,5.9,False,False,False,False,False,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+445,1,Others,12,F,True,No change,14.6,True,False,False,True,True,False,False,True,False,False,False,True,False,False,True,,False,False,False,False
+446,1,Others,10,F,True,Weight gain,,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+447,1,Crossbreed,12,F,True,No change,15.5,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+448,1,Border Terrier,12,M,True,Weight gain,11.4,True,False,False,False,False,True,False,False,False,False,False,True,True,False,True,True,False,False,True,False
+449,1,Jack Russell Terrier,9,F,False,No change,11.1,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+450,1,Border Terrier,7,F,True,No change,10.2,False,False,False,True,False,True,False,False,True,True,False,True,True,True,,,False,False,False,False
+451,1,Bichon Frise,6,F,True,No change,9.5,False,False,False,True,True,False,True,False,False,False,False,True,True,False,,,False,False,False,False
+452,1,Crossbreed,14,F,True,No change,13.3,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+453,1,Staffordshire Bull Terrier,12,F,False,No change,19.0,False,False,False,True,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+454,1,Crossbreed,10,F,False,No change,7.7,True,False,False,True,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+455,1,Shih Tzu,15,M,True,No change,,False,False,False,True,False,False,False,True,False,False,False,False,False,False,,,False,False,False,False
+456,1,Poodle,9,F,True,No change,6.0,True,False,False,False,False,False,False,False,False,True,False,True,True,False,True,True,False,False,True,True
+457,1,Others,8,F,True,No change,9.2,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+458,1,Shih Tzu,10,F,True,No change,8.2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+459,1,Staffordshire Bull Terrier,13,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+460,1,Crossbreed,6,M,True,No change,9.5,False,True,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+461,1,Others,10,M,False,No change,22.0,False,False,False,True,True,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+462,1,Yorkshire Terrier,5,F,True,Weight gain,4.7,False,False,False,False,False,True,False,False,False,True,False,True,True,True,False,False,False,False,False,False
+463,1,Schnauzer,5,M,True,No change,19.9,False,False,False,True,True,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+464,1,Crossbreed,8,M,True,Weight gain,11.2,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+465,1,Collie,8,F,True,No change,16.95,False,False,False,False,False,True,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+466,1,Others,9,F,True,No change,21.1,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+467,1,Cocker Spaniel,12,M,True,No change,13.6,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+468,1,Shih Tzu,11,M,True,No change,8.1,False,False,False,True,False,False,False,False,True,False,False,True,True,True,True,True,False,False,False,False
+469,1,Others,10,F,False,No change,26.7,False,False,True,False,False,True,False,False,True,False,False,True,False,False,True,True,False,False,False,False
+470,1,Crossbreed,11,F,True,No change,38.2,False,False,False,True,False,False,False,False,False,True,False,True,True,True,True,True,False,False,False,False
+471,1,Others,6,M,True,No change,59.0,False,False,False,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+472,1,Bichon Frise,6,M,True,Weight gain,13.9,True,False,True,True,False,False,False,False,False,False,False,True,True,True,,,False,False,False,True
+473,1,Crossbreed,6,F,False,Weight gain,33.1,False,False,False,True,False,True,False,False,True,False,False,True,True,True,True,True,False,False,False,False
+474,1,Crossbreed,13,M,True,No change,9.8,False,False,True,False,True,False,False,False,False,False,False,False,False,False,,,False,False,False,True
+475,1,Yorkshire Terrier,10,M,False,No change,7.3,False,False,False,False,True,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+476,1,Crossbreed,12,M,True,No change,10.5,False,False,False,False,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+477,1,Crossbreed,9,M,True,No change,,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+478,1,Crossbreed,10,F,True,Weight gain,39.3,False,False,False,False,False,True,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+479,1,Schnauzer,9,F,False,No change,13.55,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+480,1,Staffordshire Bull Terrier,11,M,True,No change,20.4,False,False,False,True,True,True,False,False,False,True,False,True,True,True,True,True,False,False,False,False
+481,1,Others,9,F,True,No change,22.0,True,False,False,False,False,True,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+482,1,Springer Spaniel,13,F,True,No change,25.8,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+483,1,Bichon Frise,9,F,True,No change,11.1,False,False,False,True,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+484,1,Staffordshire Bull Terrier,9,M,False,No change,23.3,False,False,False,True,False,False,True,False,False,False,False,True,True,False,,,False,False,False,False
+485,1,Labrador Retriever,12,M,True,No change,,False,False,False,True,True,False,False,True,False,False,False,False,False,False,,,False,False,False,False
+486,1,Yorkshire Terrier,9,M,False,No change,5.2,False,False,True,True,True,True,False,True,False,False,False,True,True,False,,,False,False,False,False
+487,1,Crossbreed,12,F,False,Weight loss,9.33,True,False,True,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,True
+488,1,Jack Russell Terrier,14,M,True,No change,11.1,False,False,False,False,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False
+489,1,Staffordshire Bull Terrier,9,F,True,Weight gain,30.1,False,False,False,False,False,True,True,False,True,True,False,True,True,True,True,True,False,False,False,False
+490,1,Crossbreed,9,F,True,No change,10.1,True,False,False,True,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+491,1,Staffordshire Bull Terrier,10,F,True,Weight loss,,False,False,False,True,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+492,1,Others,10,M,False,No change,14.2,True,False,False,False,True,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+493,1,Others,12,M,True,No change,,False,False,False,True,False,True,False,True,False,False,False,False,False,False,,,False,False,False,False
+494,1,Others,12,M,True,No change,7.9,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+495,1,Yorkshire Terrier,14,F,True,No change,3.2,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+496,1,Bichon Frise,9,F,True,No change,5.2,False,False,False,True,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+497,1,Crossbreed,10,M,False,No change,53.0,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+498,1,Crossbreed,8,M,True,No change,16.0,False,False,False,True,False,True,False,False,True,True,False,True,True,False,True,True,False,False,False,False
+499,1,Others,9,F,False,No change,45.0,False,False,False,False,False,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+500,1,Labrador Retriever,8,M,False,No change,39.2,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+501,1,Yorkshire Terrier,13,M,True,No change,7.5,False,False,False,False,True,False,True,False,False,False,True,True,True,False,,,False,False,False,False
+502,1,Labrador Retriever,11,F,True,No change,39.5,True,False,False,False,False,False,False,False,True,True,False,True,False,False,True,True,False,False,True,False
+503,1,Jack Russell Terrier,9,M,True,No change,8.4,False,False,False,True,False,False,False,False,True,False,False,True,True,False,True,False,False,False,False,False
+504,1,Crossbreed,13,F,True,No change,23.4,True,False,False,False,False,True,False,True,False,False,False,True,True,True,True,,False,False,False,False
+505,1,Others,8,M,True,No change,,False,False,False,False,False,True,False,False,True,True,False,False,True,True,,,False,False,False,False
+506,1,Others,8,F,True,No change,8.4,False,False,False,True,False,False,False,False,True,False,False,True,True,True,True,True,False,False,False,False
+507,1,Shih Tzu,12,M,False,No change,12.7,False,False,False,False,True,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+508,1,Crossbreed,11,F,True,No change,,False,False,False,True,False,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+509,1,Cocker Spaniel,13,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+510,1,Others,6,F,True,No change,67.0,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True,True,False,False,False,False
+511,1,Crossbreed,18,M,True,No change,18.9,False,False,False,True,False,False,False,True,False,False,False,True,True,False,True,True,False,False,False,False
+512,1,Staffordshire Bull Terrier,14,M,True,No change,31.0,True,False,False,True,False,False,False,True,False,False,False,True,True,False,True,False,False,False,False,False
+513,1,Crossbreed,6,F,True,No change,6.36,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,,False,False,False,False
+514,1,Jack Russell Terrier,14,M,False,No change,6.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+515,1,Poodle,11,F,True,No change,8.35,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+516,1,Jack Russell Terrier,6,M,False,No change,10.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+517,1,Bichon Frise,14,M,False,No change,8.5,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,True,False,False,False,False
+518,1,Border Terrier,12,F,True,No change,10.25,True,False,False,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+519,1,Crossbreed,6,F,False,No change,9.2,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+520,1,Bichon Frise,12,M,False,No change,6.16,False,False,False,False,True,True,True,False,False,False,False,True,True,True,,,False,False,False,False
+521,1,Border Terrier,11,F,True,No change,8.6,False,False,False,True,False,False,False,True,False,False,True,True,True,True,,,False,False,False,False
+522,1,Border Terrier,13,F,True,No change,8.8,True,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,True,True
+523,1,Crossbreed,8,M,False,No change,8.4,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,,False,True,False,False
+524,1,Jack Russell Terrier,14,M,True,Weight loss,,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+525,1,Staffordshire Bull Terrier,14,F,True,Weight gain,15.2,True,False,False,True,False,False,False,True,False,False,False,False,False,False,,,False,False,False,False
+526,1,Others,9,F,True,No change,9.3,False,False,False,True,True,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+527,1,Chihuahua,8,M,True,Weight gain,7.15,False,False,False,True,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+528,1,Border Terrier,11,M,True,No change,12.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+529,1,Crossbreed,9,M,True,No change,63.5,False,False,False,False,False,False,False,True,False,False,False,True,True,True,True,,False,False,False,False
+530,1,West Highland White Terrier,9,F,True,Weight gain,11.4,False,False,False,True,True,False,False,False,False,True,False,True,True,True,True,True,False,False,False,False
+531,1,Bichon Frise,7,F,True,Weight gain,11.0,False,False,False,False,False,False,True,False,False,False,False,True,True,False,True,True,False,False,False,False
+532,1,Border Terrier,8,F,True,No change,8.25,False,False,False,False,True,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+533,1,Others,5,M,False,No change,32.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+534,1,Schnauzer,10,F,True,No change,8.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+535,1,Cavalier King Charles Spaniel,8,M,True,No change,14.4,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+536,1,Others,11,M,True,No change,7.9,False,False,False,True,False,False,False,False,False,False,False,True,False,True,True,True,False,False,False,False
+537,1,Chihuahua,14,F,True,No change,3.4,False,True,False,False,False,False,False,False,True,False,False,True,False,False,,,False,False,False,False
+538,1,Shih Tzu,15,M,True,No change,8.6,False,False,False,True,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+539,1,Springer Spaniel,11,F,True,Weight loss,,False,False,False,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+540,1,Jack Russell Terrier,11,M,True,No change,10.5,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+541,1,Crossbreed,10,F,True,No change,,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,True
+542,1,Yorkshire Terrier,10,F,False,No change,6.3,True,False,False,True,False,False,False,False,True,True,True,False,False,False,,,False,False,False,False
+543,1,Poodle,11,F,True,No change,4.6,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+544,1,Crossbreed,11,M,True,No change,17.2,False,False,False,False,True,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False
+545,1,Crossbreed,10,M,True,No change,20.0,False,True,False,False,False,False,False,False,True,False,True,False,False,True,,,False,False,False,False
+546,1,Crossbreed,6,F,True,No change,10.74,False,False,False,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+547,1,Chihuahua,7,M,True,No change,7.1,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+548,1,Others,12,M,False,No change,10.14,False,False,False,True,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+549,1,Crossbreed,7,F,False,Weight gain,5.2,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,,False,False,False,False
+550,1,Yorkshire Terrier,11,M,False,No change,8.3,False,False,False,True,True,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+551,1,Yorkshire Terrier,8,M,True,Weight gain,5.11,False,False,False,False,True,False,False,False,False,True,False,True,True,True,,,False,False,False,False
+552,1,Crossbreed,10,F,False,No change,6.22,False,False,False,True,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+553,1,Cavalier King Charles Spaniel,9,F,False,No change,7.65,False,False,False,True,True,True,False,False,False,False,False,True,False,True,True,True,False,False,False,False
+554,1,Labrador Retriever,11,M,False,No change,47.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,True,False,False,False
+555,1,West Highland White Terrier,11,F,False,No change,6.7,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+556,1,Others,12,F,True,No change,3.6,False,False,False,True,False,True,False,False,False,False,True,True,True,False,,,False,False,True,False
+557,1,Bichon Frise,8,F,True,No change,9.6,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+558,1,Others,9,F,True,No change,,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+559,1,Others,9,F,True,No change,35.5,False,False,False,False,True,False,False,False,False,False,False,True,False,True,True,True,False,False,False,False
+560,1,Jack Russell Terrier,11,F,True,No change,14.4,False,False,False,False,False,False,False,False,True,False,False,True,True,True,True,False,False,False,True,False
+561,1,Others,11,M,True,No change,13.5,False,False,False,True,False,True,False,False,False,True,False,True,True,False,True,,False,False,False,False
+562,1,Staffordshire Bull Terrier,10,M,False,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+563,1,Others,10,M,True,Weight loss,11.2,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+564,1,Jack Russell Terrier,13,M,True,No change,16.5,False,False,False,False,False,False,False,True,False,True,False,False,True,False,,,False,False,False,False
+565,1,Jack Russell Terrier,10,F,True,No change,8.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+566,1,Jack Russell Terrier,11,M,True,No change,4.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+567,1,Border Terrier,7,M,False,Weight loss,10.4,False,False,True,False,False,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+568,1,Crossbreed,10,M,True,No change,10.06,False,False,False,True,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+569,1,Crossbreed,7,M,True,No change,13.9,False,False,False,True,True,True,False,True,False,False,False,False,False,False,,,False,False,False,False
+570,1,Border Terrier,11,F,True,No change,12.0,False,False,False,True,False,False,False,False,False,True,False,True,False,False,,,False,False,False,False
+571,1,Others,13,F,False,No change,11.8,True,True,False,True,False,False,False,True,False,True,False,False,False,False,True,True,True,False,False,False
+572,1,Yorkshire Terrier,10,M,True,No change,14.1,False,False,False,False,True,True,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+573,1,West Highland White Terrier,10,M,True,Weight loss,8.7,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+574,1,Staffordshire Bull Terrier,11,F,True,No change,24.45,False,False,False,False,False,True,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+575,1,Others,10,M,True,No change,11.7,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+576,1,Yorkshire Terrier,4,F,False,No change,5.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+577,1,Crossbreed,5,F,True,No change,9.4,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+578,1,Boxer,9,M,True,No change,42.1,False,False,False,False,False,False,False,False,False,False,False,True,False,True,,,False,False,False,False
+579,1,Others,9,F,True,No change,11.7,False,False,False,True,False,True,False,True,False,False,False,True,True,True,,,False,False,False,False
+580,1,Crossbreed,14,F,True,No change,13.85,False,False,False,True,False,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+581,0,Poodle,9,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,True,False,False,False,False
+582,0,Staffordshire Bull Terrier,12,M,True,No change,26.3,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+583,0,Others,6,F,True,No change,38.9,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,True,False,False,False,False
+584,0,Crossbreed,13,F,False,No change,26.6,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+585,0,Crossbreed,10,F,True,Weight gain,25.1,False,False,False,True,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+586,0,Jack Russell Terrier,14,F,True,Weight loss,7.7,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+587,0,Poodle,14,M,True,No change,9.25,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,False,False,False,False
+588,0,Border Terrier,12,F,True,No change,11.65,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+589,0,West Highland White Terrier,8,F,True,No change,9.4,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,True,False,False,False,False
+590,0,West Highland White Terrier,11,F,True,No change,8.2,False,False,False,True,True,False,True,False,False,False,False,True,True,True,True,False,False,False,False,False
+591,0,Cocker Spaniel,11,M,True,No change,26.8,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False,False
+592,0,Others,7,M,True,No change,51.5,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,,False,False,False,False
+593,0,Yorkshire Terrier,13,F,True,No change,2.7,False,True,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+594,0,Yorkshire Terrier,7,M,True,Weight gain,,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,True,False
+595,0,Others,15,F,True,No change,,False,False,False,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+596,0,Staffordshire Bull Terrier,11,F,True,No change,,True,True,True,True,False,False,False,True,True,True,False,False,False,False,,,False,False,False,False
+597,0,Crossbreed,13,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+598,0,Springer Spaniel,14,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+599,0,Others,10,F,True,No change,13.2,False,False,False,False,False,False,False,False,True,False,False,True,True,False,True,False,False,False,False,False
+600,0,West Highland White Terrier,8,F,True,Weight loss,8.3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+601,0,Others,11,M,True,No change,50.3,True,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+602,0,Jack Russell Terrier,14,M,False,No change,10.5,False,False,False,False,False,False,False,False,False,False,True,True,True,False,True,True,False,False,False,False
+603,0,Others,11,F,True,No change,7.0,True,True,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+604,0,Jack Russell Terrier,13,M,False,No change,10.6,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,,False,False,False,False
+605,0,Yorkshire Terrier,14,M,False,No change,2.84,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,True,False
+606,0,Schnauzer,10,M,False,No change,33.1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+607,0,Crossbreed,9,F,True,Weight loss,25.85,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+608,0,Bichon Frise,13,M,True,No change,7.0,False,False,False,False,True,False,True,False,False,False,False,False,False,False,,,False,True,False,False
+609,0,Others,4,M,True,No change,32.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,True,False,False
+610,0,Crossbreed,8,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,,False,False,False,False
+611,0,Staffordshire Bull Terrier,10,M,True,No change,24.9,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,False,False,False,False
+612,0,Crossbreed,12,F,True,No change,11.6,False,True,True,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+613,0,Crossbreed,8,F,True,No change,21.1,False,True,True,False,True,False,False,False,True,True,False,True,True,False,True,True,False,False,False,False
+614,0,Labrador Retriever,11,F,False,No change,33.2,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+615,0,Others,11,F,True,No change,,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+616,0,Jack Russell Terrier,12,F,True,No change,9.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+617,0,Yorkshire Terrier,5,M,True,No change,6.6,False,True,True,False,False,False,False,False,True,False,False,False,False,False,,,False,False,False,False
+618,0,Jack Russell Terrier,10,M,True,No change,13.2,False,False,False,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+619,0,Cocker Spaniel,6,F,True,No change,11.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+620,0,West Highland White Terrier,13,M,True,No change,11.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+621,0,Staffordshire Bull Terrier,14,M,True,Weight loss,19.6,False,True,True,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+622,0,Others,6,M,True,No change,54.4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+623,0,Schnauzer,9,M,False,Weight loss,8.85,True,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False
+624,0,Schnauzer,11,M,True,No change,11.2,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+625,0,Crossbreed,9,M,True,Weight loss,,False,False,False,False,False,False,False,True,False,False,False,True,True,False,,,False,False,False,False
+626,0,Yorkshire Terrier,17,F,True,No change,3.99,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+627,0,Crossbreed,10,M,True,No change,22.9,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+628,0,Cocker Spaniel,10,M,True,Weight gain,15.8,True,False,False,False,False,False,False,False,True,False,False,True,True,False,True,False,False,False,False,True
+629,0,Others,4,M,True,No change,35.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+630,0,Others,12,F,True,No change,12.3,False,False,False,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+631,0,Bichon Frise,11,M,True,Weight loss,10.1,False,False,False,True,False,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+632,0,Others,3,M,True,No change,21.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+633,0,Jack Russell Terrier,13,F,True,No change,7.15,True,False,False,False,False,False,False,False,False,True,False,False,True,False,True,True,False,False,False,False
+634,0,Staffordshire Bull Terrier,13,M,False,No change,21.1,False,False,False,False,False,False,False,True,False,True,False,False,False,False,,,False,False,False,False
+635,0,Jack Russell Terrier,10,M,True,No change,7.2,True,True,False,False,False,False,False,True,True,False,False,False,False,False,,,False,False,False,False
+636,0,Cavalier King Charles Spaniel,10,F,True,Weight gain,14.2,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+637,0,Others,14,M,True,No change,6.95,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+638,0,Others,9,M,True,No change,3.9,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+639,0,Crossbreed,14,F,True,Weight loss,,False,True,True,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+640,0,Crossbreed,2,F,True,Weight gain,20.8,False,False,False,False,False,False,False,False,True,False,False,False,False,True,,,False,False,False,False
+641,0,Others,9,M,True,No change,14.3,False,False,False,False,True,True,False,False,False,False,False,True,False,False,,,True,False,False,False
+642,0,Others,8,M,True,No change,5.6,True,False,False,False,False,False,False,False,True,True,False,True,True,False,,,False,False,False,False
+643,0,Shih Tzu,15,F,True,No change,10.9,False,False,False,True,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False,False
+644,0,Others,10,M,False,No change,11.4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+645,0,West Highland White Terrier,14,F,True,Weight loss,8.4,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+646,0,Labrador Retriever,13,M,False,No change,28.2,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False
+647,0,West Highland White Terrier,10,F,True,No change,9.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+648,0,Crossbreed,13,M,True,Weight gain,9.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+649,0,Others,8,M,False,No change,15.5,False,False,False,False,True,False,True,False,False,True,False,False,False,False,,,False,False,False,False
+650,0,Poodle,10,F,True,No change,6.2,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,,False,False,False,False
+651,0,Springer Spaniel,7,M,True,No change,26.8,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,False,False,False,False
+652,0,Crossbreed,8,M,True,No change,11.85,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+653,0,West Highland White Terrier,13,F,True,No change,6.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+654,0,West Highland White Terrier,14,F,True,Weight gain,9.9,False,False,False,False,True,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+655,0,West Highland White Terrier,12,F,True,No change,8.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+656,0,Border Terrier,10,F,False,No change,10.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+657,0,Schnauzer,8,M,True,No change,10.9,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+658,0,Bichon Frise,10,F,True,Weight gain,11.2,False,False,False,True,False,False,False,False,True,False,False,True,False,True,True,True,False,False,False,False
+659,0,Jack Russell Terrier,12,F,False,No change,13.6,False,False,False,True,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+660,0,Schnauzer,9,M,False,No change,8.95,False,False,True,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+661,0,Jack Russell Terrier,14,F,True,Weight loss,5.4,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+662,0,Others,4,F,True,Weight loss,52.1,False,False,False,False,False,True,False,True,True,False,False,False,False,False,,,False,False,False,False
+663,0,Crossbreed,8,M,True,No change,9.6,False,False,False,False,False,False,False,False,False,False,False,True,False,True,,,False,False,False,False
+664,0,Shih Tzu,9,F,False,No change,5.33,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+665,0,Springer Spaniel,9,M,True,No change,27.75,True,False,True,False,False,False,False,False,False,False,True,True,True,False,,,False,False,False,False
+666,0,Staffordshire Bull Terrier,15,F,True,No change,20.3,False,False,False,False,False,False,False,False,True,True,False,True,True,False,True,True,False,False,False,False
+667,0,Others,11,M,True,No change,17.5,True,False,False,True,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+668,0,Yorkshire Terrier,16,M,True,No change,1.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+669,0,Crossbreed,13,M,True,No change,26.85,False,False,False,True,False,False,False,False,False,True,False,False,False,False,,,False,False,True,False
+670,0,Cavalier King Charles Spaniel,7,F,True,No change,14.65,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+671,0,Crossbreed,4,F,True,No change,10.2,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+672,0,Crossbreed,10,M,False,Weight gain,21.35,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,False,False,False,False,False
+673,0,Labrador Retriever,10,M,False,No change,47.8,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False,False
+674,0,Cavalier King Charles Spaniel,10,F,True,No change,12.4,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+675,0,Schnauzer,9,M,True,No change,,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,True,False,False
+676,0,Staffordshire Bull Terrier,4,F,True,No change,21.3,False,False,False,True,True,False,True,False,True,True,False,False,False,False,,,False,False,False,False
+677,0,Yorkshire Terrier,11,M,True,No change,6.7,False,True,False,False,False,False,False,False,False,True,False,False,False,False,True,,False,True,False,False
+678,0,Jack Russell Terrier,10,M,True,No change,9.55,False,False,False,False,False,False,False,False,True,False,False,False,True,False,True,True,False,False,False,False
+679,0,Crossbreed,9,F,True,No change,8.2,False,False,False,True,True,True,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+680,0,Others,10,M,True,No change,23.85,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+681,0,Crossbreed,14,F,True,Weight gain,,False,False,False,True,False,False,False,False,False,False,False,True,True,True,True,,False,False,False,False
+682,0,Crossbreed,6,M,True,No change,14.2,False,False,True,False,False,False,False,False,True,False,True,True,True,True,True,,False,False,False,False
+683,0,Collie,8,F,False,Weight gain,,False,False,False,True,False,True,False,False,False,True,False,True,True,True,False,False,False,False,False,False
+684,0,Schnauzer,10,M,True,No change,10.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+685,0,Labrador Retriever,8,F,True,No change,37.9,False,False,False,False,False,False,True,False,True,True,False,True,False,False,True,True,False,False,False,False
+686,0,Labrador Retriever,10,M,True,No change,42.2,True,False,False,False,False,True,False,False,True,True,False,False,False,False,,,False,False,False,False
+687,0,Labrador Retriever,8,F,True,No change,40.0,True,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False,False,False,False
+688,0,Crossbreed,9,F,True,No change,20.4,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+689,0,Crossbreed,8,M,False,Weight loss,28.8,False,False,False,True,True,True,True,False,True,False,False,True,True,False,,,False,False,False,False
+690,0,Others,14,M,False,Weight loss,20.25,False,False,True,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+691,0,Cocker Spaniel,10,F,True,No change,10.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False
+692,0,Staffordshire Bull Terrier,13,F,True,Weight gain,16.0,False,False,False,False,False,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False
+693,0,Crossbreed,11,F,True,No change,30.9,False,False,False,False,False,False,True,False,False,False,False,True,True,False,True,False,False,False,False,False
+694,0,Others,6,F,True,Weight loss,64.6,True,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+695,0,Staffordshire Bull Terrier,9,F,True,Weight gain,12.2,False,False,False,False,True,True,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+696,0,Schnauzer,12,M,True,No change,10.9,False,False,False,True,False,False,True,False,True,False,False,False,False,False,True,True,True,False,False,False
+697,0,West Highland White Terrier,12,M,False,No change,12.4,False,False,False,True,True,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+698,0,Bichon Frise,8,M,True,No change,9.55,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+699,0,Others,1,F,True,No change,26.2,False,False,False,False,True,True,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+700,0,Crossbreed,5,F,True,No change,25.5,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+701,0,Others,11,F,True,No change,43.0,False,False,True,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False
+702,0,Bichon Frise,10,F,False,No change,8.05,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+703,0,Others,11,F,True,No change,13.2,False,True,True,True,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False
+704,0,Crossbreed,6,M,True,No change,,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+705,0,Staffordshire Bull Terrier,5,F,False,No change,17.1,True,False,False,False,True,False,False,False,False,False,False,True,True,False,,True,False,False,False,False
+706,0,West Highland White Terrier,12,M,False,No change,11.15,False,False,False,False,True,True,True,False,False,True,True,False,False,False,True,False,False,False,False,False
+707,0,Jack Russell Terrier,0,F,False,No change,4.05,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,,False,False,False,False
+708,0,Others,7,F,True,No change,,False,True,True,False,False,False,False,False,True,False,False,False,False,False,,,False,False,False,False
+709,0,Others,14,M,True,No change,37.0,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,True,False,False,False,False
+710,0,Others,6,F,False,No change,26.0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False
+711,0,Bichon Frise,11,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+712,0,Jack Russell Terrier,7,F,False,Weight loss,4.24,True,False,True,False,False,False,False,False,False,False,False,True,True,False,True,True,False,True,False,False
+713,0,Schnauzer,8,M,True,No change,12.65,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+714,0,Others,15,M,True,No change,13.6,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+715,0,Crossbreed,12,M,True,No change,32.6,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+716,0,Others,9,M,False,No change,6.4,True,False,False,False,True,True,True,False,False,False,False,False,False,False,,,False,False,False,False
+717,0,Crossbreed,4,F,True,No change,33.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+718,0,Others,15,M,False,Weight loss,4.4,True,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+719,0,Crossbreed,15,F,True,Weight loss,15.75,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+720,0,Others,7,F,True,No change,30.3,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+721,0,Crossbreed,9,M,False,No change,33.9,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+722,0,Cavalier King Charles Spaniel,9,M,True,Weight loss,,True,False,False,True,True,False,True,False,False,False,False,True,False,False,,,False,False,False,False
+723,0,Cocker Spaniel,12,F,False,No change,14.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,True,False
+724,0,Crossbreed,10,F,False,Weight gain,14.8,False,True,False,False,False,False,True,False,False,True,False,True,False,False,,,False,False,False,False
+725,0,Crossbreed,3,M,True,No change,10.0,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,False,False,False,False,False
+726,0,Labrador Retriever,7,M,True,No change,41.8,False,False,True,False,True,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+727,0,Border Terrier,9,F,True,No change,8.25,False,True,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+728,0,Others,6,M,False,No change,7.6,True,False,False,False,True,True,True,False,False,False,False,False,False,False,,,False,False,False,False
+729,0,Jack Russell Terrier,9,M,True,No change,7.65,False,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+730,0,Others,8,F,True,No change,12.2,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+731,0,Labrador Retriever,3,F,True,No change,37.5,False,False,False,False,True,True,True,False,False,False,False,False,False,False,,,False,False,True,False
+732,0,Labrador Retriever,10,F,True,Weight loss,27.3,False,False,False,False,False,False,False,True,False,True,False,False,False,True,,,False,False,False,False
+733,0,Crossbreed,14,F,True,No change,18.2,True,False,False,True,True,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+734,0,Others,13,M,True,No change,5.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+735,0,Others,10,M,False,No change,13.5,False,False,False,True,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+736,0,Others,12,F,True,No change,14.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+737,0,Chihuahua,2,M,True,No change,3.7,True,False,False,False,False,False,False,False,True,False,False,False,False,False,,,False,False,False,False
+738,0,Crossbreed,6,M,True,No change,10.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+739,0,Cavalier King Charles Spaniel,7,M,True,No change,,False,False,False,False,True,True,False,True,False,False,False,True,True,False,,,False,False,False,False
+740,0,Others,10,M,False,Weight loss,34.3,False,False,False,False,True,True,False,False,False,True,False,True,False,False,True,False,False,False,False,False
+741,0,Crossbreed,8,F,True,No change,10.6,False,False,False,False,False,False,True,False,False,False,False,True,True,False,,,False,False,False,False
+742,0,Yorkshire Terrier,11,M,True,Weight gain,11.2,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+743,0,Schnauzer,11,F,True,No change,9.2,False,False,False,True,True,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+744,0,Crossbreed,8,F,True,No change,7.9,False,False,False,False,False,False,False,True,True,False,False,False,False,False,True,True,False,False,False,False
+745,0,Crossbreed,7,M,True,No change,22.05,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+746,0,Labrador Retriever,10,F,True,Weight loss,27.5,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+747,0,West Highland White Terrier,12,M,False,No change,12.1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,True,False,False,False
+748,0,Schnauzer,9,F,True,No change,8.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+749,0,Crossbreed,5,M,True,No change,27.6,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+750,0,Others,2,F,True,Weight gain,30.1,False,False,False,False,True,False,False,False,True,True,False,False,True,False,,True,False,False,True,False
+751,0,Others,8,F,True,No change,8.3,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+752,0,Crossbreed,12,F,False,No change,10.43,False,False,True,True,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,False
+753,0,Yorkshire Terrier,12,M,False,No change,4.53,False,False,False,True,False,True,False,False,False,False,False,True,True,False,,,True,False,False,False
+754,0,Others,12,F,True,No change,8.65,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+755,0,Collie,9,F,True,Weight loss,,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+756,0,Cocker Spaniel,7,F,False,No change,12.3,False,True,False,False,False,False,False,False,False,False,False,False,True,True,True,,False,False,False,False
+757,0,Staffordshire Bull Terrier,10,F,False,No change,17.6,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+758,0,Crossbreed,14,F,True,No change,,False,False,False,False,False,False,False,False,False,True,False,False,True,False,True,True,False,False,False,False
+759,0,West Highland White Terrier,9,M,True,No change,9.05,False,False,False,True,False,False,False,False,False,True,False,True,True,False,True,,False,False,False,False
+760,0,Others,13,F,False,No change,10.1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+761,0,Others,10,F,True,No change,10.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+762,0,Others,10,M,True,Weight loss,45.3,True,False,False,False,False,True,False,False,False,True,False,False,False,False,,,False,False,False,False
+763,0,Crossbreed,2,F,True,No change,6.7,False,False,False,True,True,True,False,False,False,True,False,False,False,False,,,False,False,False,False
+764,0,Schnauzer,10,F,True,No change,11.85,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+765,0,Others,9,F,True,No change,14.4,False,False,False,True,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+766,0,Border Terrier,10,M,True,No change,,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+767,0,Others,10,F,True,No change,17.7,False,True,True,False,False,True,False,False,True,False,False,False,False,False,,,False,False,False,False
+768,0,Crossbreed,4,M,True,No change,18.95,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,True,False,False
+769,0,Cocker Spaniel,9,M,True,No change,18.6,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+770,0,Labrador Retriever,7,F,True,No change,34.8,False,True,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False
+771,0,Crossbreed,5,M,False,No change,11.0,False,True,True,True,True,False,True,False,False,False,False,False,False,False,,,False,False,False,False
+772,0,Boxer,10,M,True,No change,28.2,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,False,False,False,False
+773,0,Crossbreed,3,F,True,No change,39.9,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+774,0,Others,7,F,False,No change,27.9,False,False,True,False,False,False,False,False,False,True,False,True,False,False,,,False,False,False,False
+775,0,Others,9,M,True,No change,35.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True
+776,0,Staffordshire Bull Terrier,8,F,True,No change,21.25,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+777,0,Others,11,M,True,No change,34.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+778,0,Border Terrier,13,M,False,Weight gain,9.7,False,False,False,False,False,False,False,False,False,True,False,True,True,True,True,,False,False,False,False
+779,0,Bichon Frise,12,M,True,No change,15.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+780,0,Cocker Spaniel,13,F,False,No change,13.5,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False,False
+781,0,Others,7,F,True,Weight gain,35.7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,False
+782,0,Others,6,F,True,Weight gain,10.65,False,False,False,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+783,0,Crossbreed,13,F,True,No change,20.6,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,True,False,False,False,False
+784,0,Cavalier King Charles Spaniel,10,F,True,Weight loss,16.3,False,False,False,False,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False,False
+785,0,Others,14,M,False,No change,6.95,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+786,0,Cocker Spaniel,7,F,True,No change,20.1,False,False,True,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+787,0,Crossbreed,13,M,True,No change,16.5,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+788,0,Bichon Frise,6,F,False,No change,9.13,False,True,False,False,True,False,True,False,True,False,False,True,True,False,,,False,False,False,False
+789,0,Crossbreed,7,M,False,No change,41.4,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+790,0,Others,6,M,True,No change,29.7,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+791,0,Labrador Retriever,14,F,True,Weight loss,24.6,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+792,0,Crossbreed,11,M,True,No change,26.75,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+793,0,Jack Russell Terrier,10,F,True,No change,8.65,False,False,False,False,False,False,False,False,False,False,True,True,True,False,True,True,False,False,False,False
+794,0,Cocker Spaniel,11,M,True,No change,15.0,False,False,False,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+795,0,Crossbreed,14,F,True,No change,27.5,False,False,False,False,False,False,False,False,False,False,False,True,True,True,,,True,False,False,False
+796,0,West Highland White Terrier,10,F,True,No change,10.0,False,False,False,False,False,False,False,True,False,True,True,True,False,False,True,True,False,False,False,False
+797,0,Schnauzer,10,F,True,No change,12.5,False,True,False,True,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+798,0,Others,10,M,True,No change,,False,False,False,False,False,True,False,False,False,True,False,False,False,False,,,False,False,False,False
+799,0,Others,8,M,True,Weight loss,37.7,False,False,False,True,True,False,True,False,False,True,False,False,False,False,,,False,False,False,False
+800,0,Labrador Retriever,13,M,False,No change,,True,False,False,False,False,False,False,False,False,True,False,True,False,False,True,True,False,False,False,False
+801,0,Cocker Spaniel,6,F,True,Weight gain,15.3,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False
+802,0,Staffordshire Bull Terrier,16,M,True,Weight loss,16.9,False,False,False,False,False,False,False,False,False,True,False,True,True,True,True,True,False,False,False,False
+803,0,Crossbreed,15,M,True,No change,21.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,True
+804,0,Others,7,M,True,No change,39.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+805,0,Staffordshire Bull Terrier,10,F,True,No change,22.7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+806,0,Crossbreed,9,F,True,No change,15.1,False,False,False,False,False,False,True,False,False,False,False,True,True,True,True,False,False,False,False,False
+807,0,Others,2,M,True,No change,26.3,False,False,False,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+808,0,Others,10,F,True,Weight loss,13.8,False,True,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+809,0,West Highland White Terrier,10,F,True,Weight loss,10.75,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+810,0,Bichon Frise,7,M,True,No change,,False,True,True,True,False,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False
+811,0,Bichon Frise,7,F,True,Weight gain,8.3,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,False,False,False,False
+812,0,Crossbreed,11,M,True,No change,32.0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+813,0,Others,7,F,True,No change,33.9,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True,True,False,False,False,False
+814,0,Labrador Retriever,9,F,True,No change,32.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,True,False,False,False,False
+815,0,Others,8,M,True,Weight gain,,True,False,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+816,0,Others,9,F,True,Weight loss,21.6,False,False,False,False,False,False,False,False,True,False,True,True,True,False,False,True,False,False,False,False
+817,0,Labrador Retriever,4,F,True,Weight gain,39.0,False,False,False,False,True,False,False,False,True,False,False,True,False,False,True,True,False,False,False,False
+818,0,Others,10,M,True,No change,36.9,False,False,False,False,True,False,True,False,False,False,False,True,True,False,True,False,False,False,False,False
+819,0,West Highland White Terrier,8,M,True,No change,13.3,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+820,0,Others,4,F,True,No change,1.65,True,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+821,0,Jack Russell Terrier,13,F,False,No change,,True,False,False,False,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+822,0,Yorkshire Terrier,12,F,True,No change,7.2,False,False,False,True,False,False,False,True,False,True,False,True,False,False,True,True,False,False,False,False
+823,0,Jack Russell Terrier,10,F,True,No change,,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,True,False,False,False,False
+824,0,Crossbreed,13,F,True,No change,9.05,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+825,0,Others,8,F,True,No change,11.15,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+826,0,Crossbreed,10,M,False,No change,28.4,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+827,0,Border Terrier,11,M,True,No change,13.7,True,False,False,False,False,True,False,False,False,False,False,True,True,False,True,True,False,False,True,False
+828,0,Others,11,F,True,No change,14.7,False,False,False,True,False,False,False,False,True,True,False,True,True,False,True,True,False,False,False,False
+829,0,Schnauzer,13,M,True,Weight loss,17.2,True,False,False,False,False,False,False,True,False,False,True,False,False,False,,,False,False,False,False
+830,0,Others,12,M,True,Weight loss,21.0,False,False,True,False,False,False,False,False,True,False,False,True,True,True,True,True,False,False,False,False
+831,0,Bichon Frise,12,F,True,No change,6.4,False,False,False,False,False,False,False,True,True,False,True,False,False,True,True,True,False,False,False,False
+832,0,Bichon Frise,8,M,True,No change,9.6,False,False,False,False,False,False,True,False,False,True,False,False,False,False,True,True,False,False,False,False
+833,0,Others,2,M,True,No change,4.62,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,True,False
+834,0,Crossbreed,14,M,True,No change,11.65,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+835,0,Staffordshire Bull Terrier,14,M,False,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+836,0,Labrador Retriever,8,M,True,Weight loss,,False,False,False,False,True,True,False,False,False,False,False,True,True,True,,,False,False,False,False
+837,0,Bichon Frise,8,M,True,No change,10.3,False,False,False,True,True,False,False,False,False,False,False,True,False,True,False,True,False,False,False,False
+838,0,Labrador Retriever,10,F,True,No change,25.6,True,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+839,0,Jack Russell Terrier,10,M,True,No change,9.65,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+840,0,Crossbreed,12,M,True,No change,13.65,False,False,False,True,False,False,False,False,False,True,False,True,True,True,True,True,False,False,False,False
+841,0,Shih Tzu,10,F,True,No change,9.3,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+842,0,Springer Spaniel,9,F,True,No change,18.2,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+843,0,Schnauzer,9,M,True,No change,15.7,False,False,False,False,True,False,False,False,True,False,False,True,False,False,True,,False,False,False,False
+844,0,Jack Russell Terrier,11,M,True,No change,9.3,False,True,False,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+845,0,Staffordshire Bull Terrier,13,M,False,No change,,False,False,False,True,False,False,False,False,False,True,False,True,False,False,,,False,False,False,False
+846,0,Yorkshire Terrier,5,F,True,No change,8.6,False,True,True,True,True,False,False,False,True,False,False,True,False,False,,,False,False,False,False
+847,0,Staffordshire Bull Terrier,14,F,True,Weight loss,16.8,False,False,False,False,False,False,False,False,False,False,False,True,True,True,False,True,False,False,False,False
+848,0,Jack Russell Terrier,3,F,True,No change,15.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+849,0,Crossbreed,12,M,True,No change,19.2,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+850,0,West Highland White Terrier,7,F,True,No change,8.5,False,False,False,False,True,True,False,False,True,False,False,True,True,False,,,False,False,False,False
+851,0,Others,11,F,True,No change,26.0,False,True,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+852,0,Cavalier King Charles Spaniel,7,M,True,Weight gain,,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,,False,False,False,False
+853,0,Bichon Frise,10,M,True,No change,15.1,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+854,0,Bichon Frise,10,F,True,No change,7.0,False,False,False,False,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+855,0,Jack Russell Terrier,13,M,True,No change,14.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+856,0,Labrador Retriever,6,F,True,No change,34.25,False,False,False,False,False,False,False,False,True,True,True,False,False,False,,,False,False,False,False
+857,0,Others,12,M,False,No change,10.5,True,False,False,False,False,False,False,True,False,False,False,True,True,False,True,True,False,False,False,False
+858,0,Crossbreed,4,M,True,No change,15.95,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+859,0,Schnauzer,11,F,False,Weight loss,10.21,False,False,False,False,False,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+860,0,West Highland White Terrier,14,M,False,No change,13.6,False,False,False,False,False,True,False,True,True,False,False,False,False,False,,,False,False,False,False
+861,0,Crossbreed,6,F,True,No change,9.2,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+862,0,Cavalier King Charles Spaniel,6,F,False,No change,9.0,False,True,True,False,False,False,False,False,True,False,False,False,False,False,,,False,False,False,False
+863,0,Labrador Retriever,9,M,True,Weight loss,31.4,False,False,False,False,False,False,False,True,False,True,False,False,False,False,,,False,False,False,False
+864,0,Schnauzer,6,M,False,No change,12.25,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+865,0,Bichon Frise,12,F,True,No change,10.45,True,False,False,True,False,False,False,False,False,False,False,False,False,False,,,True,True,False,False
+866,0,Others,9,M,True,No change,9.3,False,True,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False,False,False,False
+867,0,West Highland White Terrier,12,M,True,No change,9.6,False,False,False,True,False,False,False,True,False,False,False,False,False,False,True,,False,False,False,False
+868,0,Yorkshire Terrier,8,F,True,Weight gain,11.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+869,0,Others,9,M,True,No change,6.95,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+870,0,Others,11,F,True,No change,21.2,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+871,0,Crossbreed,0,F,False,Weight loss,16.8,False,False,True,False,True,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+872,0,Crossbreed,9,M,True,No change,12.15,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+873,0,West Highland White Terrier,11,M,True,No change,9.1,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+874,0,Labrador Retriever,9,F,True,Weight gain,34.0,False,False,False,True,False,False,False,False,True,True,False,False,False,False,True,True,False,False,False,False
+875,0,Crossbreed,9,F,True,No change,6.8,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+876,0,Others,3,F,True,No change,28.25,True,False,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+877,0,Yorkshire Terrier,14,F,True,No change,3.6,False,True,True,False,True,True,False,False,False,False,False,False,False,True,,,False,False,False,False
+878,0,Jack Russell Terrier,6,F,True,Weight gain,12.0,False,False,True,True,False,False,False,False,True,True,False,True,False,False,True,True,False,False,False,False
+879,0,Others,2,F,True,No change,42.1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+880,0,Cocker Spaniel,11,F,True,No change,21.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+881,0,Crossbreed,6,F,True,No change,32.25,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False
+882,0,Schnauzer,2,M,True,No change,10.1,False,True,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+883,0,Boxer,11,F,True,No change,36.9,False,False,False,False,True,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+884,0,Collie,6,F,True,No change,22.9,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+885,0,Others,3,F,True,No change,7.15,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+886,0,Jack Russell Terrier,9,M,True,Weight loss,11.6,False,False,False,True,False,False,False,False,True,False,False,True,True,False,True,,False,False,False,False
+887,0,Crossbreed,11,F,True,No change,23.75,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+888,0,Collie,8,M,True,Weight loss,14.3,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+889,0,Labrador Retriever,11,M,True,No change,37.2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+890,0,Chihuahua,16,M,True,No change,,True,True,False,False,False,False,False,False,True,True,False,True,True,False,False,True,False,False,False,False
+891,0,Border Terrier,9,M,True,No change,11.05,False,False,False,False,True,True,False,True,False,False,False,True,False,False,,,False,False,False,False
+892,0,Cavalier King Charles Spaniel,9,F,True,No change,12.25,False,False,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+893,0,Others,9,M,True,No change,18.2,True,False,False,False,False,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+894,0,Others,7,M,True,No change,8.3,False,False,False,False,False,True,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+895,0,Others,8,F,True,No change,12.3,True,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,True,False,False
+896,0,Crossbreed,11,F,True,No change,19.8,False,False,False,True,False,False,False,True,True,True,False,False,False,False,True,True,False,False,False,False
+897,0,West Highland White Terrier,10,M,False,No change,9.65,True,False,False,False,True,False,False,False,False,False,False,False,False,False,,,False,True,False,False
+898,0,Jack Russell Terrier,5,F,True,No change,6.4,False,False,False,False,False,False,False,False,False,False,True,True,True,False,,,False,False,False,False
+899,0,Boxer,10,M,True,No change,42.5,False,False,False,True,True,False,False,False,False,False,True,True,True,False,,,False,False,False,False
+900,0,Crossbreed,12,M,True,No change,11.3,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+901,0,West Highland White Terrier,11,F,True,No change,10.15,False,True,False,False,False,False,False,False,True,False,False,True,True,False,True,,False,False,False,False
+902,0,Crossbreed,1,M,True,No change,21.8,True,True,True,False,False,False,True,False,True,False,False,True,False,False,,,False,False,False,False
+903,0,Others,6,M,True,Weight gain,60.0,True,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False
+904,0,Crossbreed,10,M,True,No change,13.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False
+905,0,Jack Russell Terrier,13,M,False,No change,9.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+906,0,Staffordshire Bull Terrier,9,M,True,No change,,False,False,False,False,True,True,True,False,False,False,False,False,False,False,,,False,False,False,False
+907,0,Crossbreed,13,F,True,No change,7.9,False,False,False,False,False,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+908,0,Others,10,M,True,Weight loss,10.6,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+909,0,Collie,7,F,True,No change,21.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+910,0,Others,7,F,True,No change,22.5,True,False,False,False,False,False,False,False,False,False,False,True,False,True,True,,False,False,False,False
+911,0,Crossbreed,13,M,True,No change,21.3,False,False,False,False,False,False,False,True,False,True,False,True,True,True,False,False,False,False,False,False
+912,0,Yorkshire Terrier,12,F,False,No change,8.3,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+913,0,Cocker Spaniel,10,F,True,No change,11.0,False,False,True,False,False,False,False,False,True,True,False,False,False,False,,,False,False,False,False
+914,0,Others,11,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+915,0,Crossbreed,13,F,True,No change,25.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+916,0,Crossbreed,9,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+917,0,Crossbreed,9,M,False,No change,14.0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False
+918,0,Crossbreed,13,F,True,No change,10.9,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+919,0,Crossbreed,6,F,True,No change,14.7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+920,0,West Highland White Terrier,15,M,True,No change,,False,False,True,True,False,True,False,False,False,True,True,True,True,False,False,False,False,False,False,False
+921,0,Others,3,M,True,No change,9.5,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+922,0,Crossbreed,9,M,True,No change,7.6,False,False,False,False,False,False,False,False,True,True,False,False,False,False,,,False,False,False,False
+923,0,Others,9,M,True,No change,12.8,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,False,False,False,False,False
+924,0,West Highland White Terrier,11,F,True,No change,9.4,False,False,False,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+925,0,West Highland White Terrier,9,M,False,No change,10.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+926,0,Labrador Retriever,12,M,True,No change,41.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+927,0,West Highland White Terrier,8,F,True,No change,11.6,True,True,False,False,False,False,False,False,False,False,False,True,False,False,True,,False,False,False,False
+928,0,Cocker Spaniel,12,F,True,No change,13.35,False,False,False,False,False,False,False,True,False,False,False,True,True,False,,,False,False,False,False
+929,0,Others,13,M,True,No change,17.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+930,0,Labrador Retriever,8,F,True,No change,38.25,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+931,0,Bichon Frise,15,M,True,No change,5.9,False,True,False,False,False,False,False,False,False,False,False,True,True,True,True,True,False,False,False,False
+932,0,Labrador Retriever,11,M,True,No change,25.7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+933,0,Crossbreed,11,F,True,Weight loss,19.9,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,False,False,False,False
+934,0,Crossbreed,8,F,True,No change,6.38,False,True,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+935,0,Schnauzer,10,M,True,No change,7.2,False,True,True,False,False,False,False,False,False,False,False,False,True,False,,,False,False,False,False
+936,0,Others,10,F,True,No change,34.5,True,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+937,0,Labrador Retriever,9,M,True,No change,35.4,False,False,False,True,False,False,False,True,True,True,False,True,True,False,True,True,False,False,False,False
+938,0,Poodle,10,F,False,No change,4.0,True,False,False,False,False,True,False,False,False,False,False,False,False,False,,True,False,False,False,False
+939,0,Bichon Frise,10,M,True,No change,11.85,False,True,True,False,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,False
+940,0,West Highland White Terrier,8,F,True,No change,6.7,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+941,0,Others,11,M,False,No change,27.8,False,False,False,False,False,False,False,True,True,False,False,False,False,False,,,False,False,False,False
+942,0,Crossbreed,16,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+943,0,Jack Russell Terrier,12,F,True,No change,13.0,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,,False,False,False,False
+944,0,West Highland White Terrier,10,M,True,No change,14.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+945,0,Others,12,M,True,No change,35.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+946,0,Collie,13,M,True,No change,31.5,False,False,False,True,True,True,False,False,True,False,False,True,False,False,,,False,False,False,False
+947,0,Crossbreed,5,M,True,No change,35.7,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,True,False
+948,0,Schnauzer,13,F,True,No change,5.5,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+949,0,Border Terrier,3,M,True,No change,12.9,False,False,False,False,False,False,True,False,False,False,False,False,False,False,,,False,False,False,False
+950,0,Crossbreed,10,M,True,No change,10.6,True,False,False,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+951,0,Cocker Spaniel,3,F,False,No change,17.5,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+952,0,Yorkshire Terrier,14,M,True,No change,9.4,False,False,False,True,True,False,False,False,False,True,False,True,True,False,True,,False,False,False,False
+953,0,Others,10,F,True,No change,34.1,False,False,False,True,False,False,False,True,True,False,False,True,True,False,,,False,False,False,False
+954,0,Others,7,F,False,No change,66.0,False,True,True,False,False,True,False,False,True,False,False,True,True,False,,,False,False,False,False
+955,0,Others,4,M,False,No change,46.5,True,False,False,False,True,False,False,False,True,False,False,False,False,False,,,False,False,False,False
+956,0,Others,5,F,True,Weight gain,26.0,False,False,False,False,True,True,False,False,False,True,False,False,False,False,,,False,False,False,False
+957,0,Crossbreed,13,M,True,No change,8.85,True,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,True,False,False
+958,0,West Highland White Terrier,11,F,True,Weight gain,5.85,False,False,False,True,False,True,False,False,False,True,False,False,False,False,,,False,False,False,False
+959,0,Staffordshire Bull Terrier,10,F,True,Weight loss,16.4,False,False,True,False,False,False,False,False,True,False,False,False,False,False,,,False,False,False,False
+960,0,Collie,14,F,True,No change,17.8,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+961,0,Others,10,M,True,No change,16.1,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+962,0,Labrador Retriever,8,M,True,No change,33.6,False,True,False,False,False,False,True,False,False,False,False,True,False,False,,,False,False,False,False
+963,0,Crossbreed,4,F,True,No change,13.15,False,True,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+964,0,West Highland White Terrier,5,M,True,No change,12.3,False,False,False,True,True,False,True,False,False,False,False,False,False,False,,,False,False,False,False
+965,0,Staffordshire Bull Terrier,13,F,True,No change,,False,False,True,True,False,False,False,True,False,True,False,True,True,True,True,True,True,False,False,False
+966,0,Others,11,M,True,No change,17.8,False,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False
+967,0,Others,11,M,False,No change,26.0,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+968,0,Bichon Frise,6,M,True,Weight gain,10.0,False,False,False,True,True,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+969,0,Crossbreed,11,F,False,No change,10.9,False,True,True,True,False,False,False,False,False,True,False,False,False,False,,,False,False,False,False
+970,0,West Highland White Terrier,12,F,True,No change,9.8,False,True,False,False,False,False,False,False,True,False,False,False,False,False,,,False,False,False,False
+971,0,Crossbreed,3,M,False,No change,36.6,False,False,False,False,False,False,False,False,False,False,True,False,False,False,,,False,False,False,False
+972,0,West Highland White Terrier,10,M,True,No change,12.0,False,False,False,True,True,False,False,False,False,False,False,True,True,True,True,False,False,False,False,False
+973,0,Yorkshire Terrier,14,F,False,No change,,False,False,False,True,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+974,0,West Highland White Terrier,11,F,True,No change,7.95,True,False,False,False,False,False,False,True,False,False,False,True,False,True,,,False,True,True,False
+975,0,Bichon Frise,10,M,False,No change,8.6,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True,True,False,False,False,False
+976,0,Crossbreed,15,F,True,No change,13.45,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+977,0,Bichon Frise,14,M,True,No change,9.1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+978,0,Crossbreed,7,M,True,No change,10.3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+979,0,Others,11,M,True,No change,16.4,False,True,False,False,True,True,True,False,False,False,False,False,False,False,True,,False,False,False,False
+980,0,Labrador Retriever,9,M,True,No change,36.7,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,False
+981,0,West Highland White Terrier,10,F,True,No change,7.7,True,False,False,True,False,False,False,False,True,True,False,True,True,False,True,True,False,False,True,False
+982,0,Poodle,10,F,True,No change,2.1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,True,False
+983,0,Crossbreed,12,M,True,No change,,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+984,0,Crossbreed,3,F,True,No change,11.4,False,False,False,False,True,True,False,False,True,False,False,False,False,False,,,False,False,False,False
+985,0,Cavalier King Charles Spaniel,9,F,True,No change,13.7,False,False,False,True,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+986,0,Staffordshire Bull Terrier,9,M,True,No change,19.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+987,0,Others,4,F,True,Weight gain,80.5,False,False,False,False,False,False,False,False,True,False,False,False,False,True,,,False,False,False,False
+988,0,Chihuahua,8,F,True,Weight gain,3.7,False,False,False,False,False,False,False,False,True,False,False,True,False,True,True,True,False,False,False,False
+989,0,Collie,11,F,True,Weight gain,,False,False,False,False,True,False,False,True,True,False,False,True,True,False,True,True,False,False,False,False
+990,0,Others,7,M,True,No change,11.3,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+991,0,Labrador Retriever,3,F,True,No change,41.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+992,0,Crossbreed,6,M,True,No change,9.9,True,False,False,True,False,False,False,False,False,False,False,False,False,False,,,False,True,False,False
+993,0,Others,10,F,True,No change,23.6,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+994,0,Others,3,F,True,No change,14.95,False,False,False,False,True,True,True,False,False,False,False,False,False,False,,,False,False,False,False
+995,0,Others,9,M,True,No change,19.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+996,0,Jack Russell Terrier,9,M,False,No change,6.05,False,False,True,False,False,False,False,False,False,True,False,False,False,False,,,False,False,False,False
+997,0,Crossbreed,10,M,True,Weight loss,6.05,False,False,False,True,False,False,False,False,False,False,False,True,True,True,,,False,False,True,False
+998,0,Others,10,M,True,No change,15.9,False,False,False,False,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+999,0,Staffordshire Bull Terrier,13,F,True,No change,20.1,False,False,False,True,False,True,False,True,True,False,False,True,False,False,,,False,False,False,False
+1000,0,Schnauzer,15,F,True,No change,11.3,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1001,0,Jack Russell Terrier,6,F,True,No change,6.07,False,True,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+1002,0,Crossbreed,8,F,True,No change,30.3,False,False,False,False,False,False,False,False,True,False,False,False,False,False,,,False,False,True,False
+1003,0,Others,6,F,True,No change,17.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+1004,0,Others,8,M,True,No change,39.2,False,False,False,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+1005,0,Cocker Spaniel,11,F,True,No change,19.2,True,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+1006,0,Chihuahua,4,F,True,No change,,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,False,False,False,False
+1007,0,Others,14,M,False,Weight loss,10.0,False,False,False,True,False,False,True,False,False,False,False,True,True,False,True,False,False,False,False,False
+1008,0,Collie,13,M,True,No change,25.8,False,False,False,False,False,False,False,False,True,True,False,True,False,True,True,False,False,False,False,False
+1009,0,Schnauzer,10,M,True,No change,,True,False,True,False,False,False,False,False,False,True,False,True,False,False,True,False,False,False,False,False
+1010,0,Crossbreed,10,F,True,Weight gain,10.7,False,False,False,False,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False,False
+1011,0,Others,0,F,True,No change,18.5,False,False,True,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+1012,0,Others,10,M,True,No change,37.05,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1013,0,Schnauzer,7,M,True,No change,11.4,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,True,False,False,False,False
+1014,0,Collie,13,F,True,No change,29.4,False,False,False,False,True,False,True,False,False,False,False,False,False,False,,,False,False,False,False
+1015,0,Staffordshire Bull Terrier,5,F,True,Weight gain,15.65,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+1016,0,Others,9,F,True,No change,29.15,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False
+1017,0,West Highland White Terrier,12,M,True,No change,11.8,False,False,False,True,False,False,False,False,False,True,True,True,True,True,True,True,False,False,False,False
+1018,0,Others,8,F,False,No change,39.6,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False
+1019,0,Others,9,F,True,Weight gain,10.7,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+1020,0,Crossbreed,5,M,True,No change,9.9,False,False,False,False,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False
+1021,0,Jack Russell Terrier,5,F,True,No change,8.5,False,False,False,True,False,False,False,False,False,False,False,False,True,True,True,True,False,False,False,False
+1022,0,Shih Tzu,10,M,True,No change,9.5,False,True,True,False,False,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+1023,0,Crossbreed,10,F,True,Weight loss,16.8,False,False,False,False,False,False,False,True,True,False,False,True,True,False,,,False,False,False,False
+1024,0,West Highland White Terrier,8,M,True,Weight gain,15.3,True,False,False,False,False,False,True,False,False,True,False,True,True,True,,,False,False,True,True
+1025,0,Labrador Retriever,8,F,True,No change,32.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1026,0,Yorkshire Terrier,5,M,False,No change,7.0,False,True,False,False,True,True,True,False,False,False,False,True,True,False,,,False,False,False,False
+1027,0,Crossbreed,7,M,True,No change,17.1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+1028,0,Crossbreed,12,F,False,No change,28.6,False,False,False,True,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+1029,0,Cocker Spaniel,5,F,True,No change,24.4,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+1030,0,Crossbreed,13,M,True,No change,12.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1031,0,Labrador Retriever,10,F,True,No change,34.9,False,False,False,False,False,False,False,False,True,False,False,True,True,False,False,True,False,False,False,False
+1032,0,Jack Russell Terrier,16,F,True,No change,6.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+1033,0,Others,9,F,True,No change,8.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1034,0,Jack Russell Terrier,8,F,True,No change,10.3,False,False,True,True,False,False,False,False,True,False,False,False,False,False,True,True,False,False,False,False
+1035,0,Bichon Frise,13,M,False,No change,9.2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,,,True,False,False,False
+1036,0,Border Terrier,10,F,False,No change,12.4,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+1037,0,Crossbreed,11,M,True,No change,8.2,True,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,True,False,False
+1038,0,Bichon Frise,12,M,True,No change,,True,False,True,False,True,False,False,False,True,False,False,True,False,False,,,False,False,False,False
+1039,0,West Highland White Terrier,12,M,True,No change,11.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,,False,False,False,False
+1040,0,Others,10,F,True,No change,46.8,False,False,False,False,True,False,False,False,False,False,False,True,False,True,,,False,False,True,False
+1041,0,Others,14,M,True,Weight loss,3.6,False,False,False,False,False,False,False,False,False,True,False,True,True,True,False,False,False,False,False,False
+1042,0,Labrador Retriever,10,M,True,No change,38.2,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False
+1043,0,Labrador Retriever,11,F,True,Weight gain,30.4,False,False,False,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+1044,0,Collie,11,F,False,No change,21.0,False,False,False,True,False,True,False,False,False,False,False,True,False,False,,,False,False,False,False
+1045,0,Crossbreed,13,F,True,No change,9.68,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,True,False,False,False,True
+1046,0,Border Terrier,13,M,True,Weight gain,11.9,False,False,False,True,True,False,False,False,False,False,False,True,True,True,,,False,False,False,False
+1047,0,Labrador Retriever,11,M,True,Weight loss,27.3,False,True,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1048,0,Schnauzer,10,F,True,No change,7.25,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1049,0,Jack Russell Terrier,12,M,True,No change,8.5,False,False,False,False,False,False,False,False,False,False,True,True,True,False,,,False,False,False,False
+1050,0,Staffordshire Bull Terrier,10,M,False,No change,19.4,True,False,False,True,False,False,False,True,True,True,False,False,False,False,True,True,False,False,False,False
+1051,0,Others,13,F,True,No change,7.3,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False
+1052,0,Schnauzer,5,M,True,No change,60.2,False,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,False,False,False,False
+1053,0,Crossbreed,8,F,True,No change,22.15,False,False,False,False,True,True,False,False,False,False,False,True,True,False,,,False,False,False,False
+1054,0,Labrador Retriever,9,M,False,No change,27.5,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+1055,0,Others,11,F,True,No change,27.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+1056,0,Cocker Spaniel,9,F,False,No change,,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+1057,0,Crossbreed,9,F,False,Weight gain,18.3,False,False,False,False,False,False,False,True,False,False,False,True,False,False,True,,False,False,False,False
+1058,0,Border Terrier,11,F,True,No change,9.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+1059,0,Boxer,6,M,True,No change,30.8,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False
+1060,0,Others,7,F,True,No change,30.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,True,False,False
+1061,0,Crossbreed,11,M,True,No change,49.0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+1062,0,Others,12,F,False,No change,9.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1063,0,Labrador Retriever,10,F,True,No change,33.3,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+1064,0,Others,6,F,True,No change,12.1,False,True,False,False,False,False,False,False,True,False,False,True,True,False,True,True,False,False,False,False
+1065,0,Crossbreed,5,F,True,No change,10.3,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+1066,0,Others,11,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1067,0,Jack Russell Terrier,9,F,True,No change,9.05,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,True,False,False
+1068,0,Bichon Frise,9,M,True,Weight gain,8.24,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1069,0,Boxer,10,M,True,Weight loss,28.35,False,False,False,False,False,False,False,False,True,False,False,True,False,False,,,False,False,False,False
+1070,0,Jack Russell Terrier,11,M,True,No change,10.7,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1071,0,Jack Russell Terrier,12,M,False,No change,10.55,True,False,False,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+1072,0,Others,10,M,True,Weight loss,27.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+1073,0,West Highland White Terrier,9,F,True,Weight loss,9.69,True,False,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False
+1074,0,Labrador Retriever,10,F,True,No change,28.95,False,False,False,False,False,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+1075,0,Staffordshire Bull Terrier,11,M,True,No change,26.9,False,False,False,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False,False
+1076,0,West Highland White Terrier,10,F,True,No change,8.9,True,False,False,True,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+1077,0,Cocker Spaniel,8,F,True,Weight gain,14.85,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+1078,0,Others,9,F,False,No change,24.0,False,False,False,False,False,False,False,False,False,True,False,True,False,False,,,False,False,False,False
+1079,0,Boxer,11,F,True,No change,27.2,False,False,False,True,False,False,False,False,False,True,False,True,False,True,False,True,False,False,False,False
+1080,0,Crossbreed,12,F,True,Weight loss,10.5,False,False,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,False,False,False
+1081,0,Others,10,M,False,No change,9.3,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True
+1082,0,Crossbreed,10,F,True,No change,9.8,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+1083,0,Crossbreed,10,F,True,No change,9.1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1084,0,Cavalier King Charles Spaniel,8,F,True,No change,14.6,False,False,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+1085,0,Others,6,M,True,No change,12.65,False,False,False,True,False,False,False,False,False,True,False,True,True,True,,,False,False,False,False
+1086,0,Jack Russell Terrier,11,M,True,Weight gain,7.1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1087,0,Others,11,F,True,No change,19.4,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,True,False
+1088,0,Poodle,14,M,True,Weight loss,6.4,False,False,False,False,True,True,False,False,False,False,False,True,True,False,False,True,False,False,False,False
+1089,0,Others,12,F,True,No change,9.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+1090,0,Cocker Spaniel,8,F,True,Weight gain,21.2,False,False,False,True,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False
+1091,0,Labrador Retriever,3,F,True,No change,31.8,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+1092,0,Crossbreed,13,F,True,No change,6.7,False,False,True,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+1093,0,Others,12,M,True,No change,10.35,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1094,0,Collie,12,F,True,No change,22.0,False,False,False,False,False,False,False,True,True,False,False,True,True,True,,True,False,False,False,False
+1095,0,Staffordshire Bull Terrier,13,M,True,No change,,False,False,False,True,False,False,False,True,True,False,False,False,False,False,,,False,False,False,False
+1096,0,Chihuahua,10,M,False,No change,4.13,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1097,0,West Highland White Terrier,14,M,False,Weight loss,8.65,False,False,False,True,True,False,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+1098,0,West Highland White Terrier,10,F,True,No change,6.45,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+1099,0,Yorkshire Terrier,9,M,True,Weight loss,8.62,False,False,False,True,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+1100,0,Crossbreed,8,M,True,No change,15.6,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1101,0,Staffordshire Bull Terrier,10,F,True,No change,18.5,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+1102,0,Crossbreed,7,M,True,Weight loss,34.6,False,True,False,False,False,False,False,False,True,False,False,False,False,False,True,,False,False,False,False
+1103,0,Bichon Frise,11,F,True,Weight loss,,True,False,False,True,False,False,False,False,False,True,False,True,True,False,True,False,False,False,False,False
+1104,0,West Highland White Terrier,14,M,True,No change,7.3,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,False,False,False,False,True
+1105,0,Jack Russell Terrier,10,M,True,No change,6.8,False,False,False,True,False,False,False,False,False,True,True,False,False,False,,,False,False,False,True
+1106,0,Labrador Retriever,11,M,True,Weight loss,28.4,True,False,False,False,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+1107,0,Crossbreed,9,F,True,Weight gain,6.48,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,,False,False,False,False
+1108,0,Jack Russell Terrier,10,M,False,No change,11.9,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,False,False
+1109,0,Bichon Frise,9,M,True,No change,12.25,True,False,False,False,True,True,True,False,False,False,False,False,False,True,,,False,False,False,False
+1110,0,Crossbreed,8,M,True,No change,10.05,False,False,False,False,True,False,True,False,False,False,False,False,False,False,,,False,False,False,False
+1111,0,Crossbreed,11,F,True,No change,5.6,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+1112,0,Crossbreed,10,M,False,No change,11.7,True,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+1113,0,Crossbreed,9,F,True,No change,34.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1114,0,Chihuahua,9,M,False,No change,6.9,False,False,False,False,False,False,False,False,False,False,False,True,False,True,True,True,False,False,False,False
+1115,0,Crossbreed,12,F,True,No change,9.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1116,0,Jack Russell Terrier,18,M,True,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+1117,0,Cocker Spaniel,14,M,False,No change,17.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1118,0,Others,12,M,True,No change,,False,False,False,False,False,False,False,True,True,False,False,True,False,True,True,False,False,False,False,False
+1119,0,Crossbreed,8,F,True,Weight loss,32.2,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+1120,0,Others,2,M,False,No change,4.4,False,False,False,False,False,False,False,False,False,True,False,False,False,False,,,False,False,False,False
+1121,0,Others,5,M,True,No change,21.1,False,True,False,False,False,False,False,False,False,False,False,True,False,False,,,False,False,False,False
+1122,0,Crossbreed,11,M,True,No change,30.5,False,False,False,False,False,False,False,False,False,False,True,False,False,False,True,True,False,False,False,False
+1123,0,Poodle,10,M,True,No change,9.5,False,False,True,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1124,0,Others,11,F,False,No change,8.25,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1125,0,Others,11,M,True,No change,8.6,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+1126,0,Yorkshire Terrier,10,F,True,No change,6.1,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,True,False,False
+1127,0,Labrador Retriever,12,F,True,No change,27.5,True,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,True
+1128,0,West Highland White Terrier,12,F,True,No change,8.6,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,,False,False,False,False
+1129,0,Boxer,4,M,False,No change,39.2,False,False,False,False,False,True,False,False,True,False,False,False,False,False,,True,False,False,False,False
+1130,0,Crossbreed,12,F,True,Weight gain,21.6,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,True,False,False,False,False
+1131,0,Yorkshire Terrier,11,F,True,No change,6.5,False,False,False,True,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1132,0,Others,11,M,True,No change,33.05,False,False,False,False,False,False,False,True,False,False,False,False,False,False,,,False,True,False,False
+1133,0,Chihuahua,12,F,True,No change,6.28,False,False,False,True,False,False,False,False,True,False,False,True,True,False,True,False,False,False,False,False
+1134,0,Others,6,F,True,No change,34.6,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1135,0,Poodle,5,M,True,No change,7.8,False,False,False,False,False,False,False,False,False,False,False,False,True,False,,,False,False,False,False
+1136,0,Bichon Frise,13,M,True,No change,5.6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1137,0,Crossbreed,7,M,True,No change,11.2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1138,0,Jack Russell Terrier,12,M,True,No change,12.25,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,True,False,False,False,False
+1139,0,Crossbreed,5,M,True,No change,,False,False,False,True,False,False,False,False,False,True,False,True,True,False,,,False,False,False,False
+1140,0,Yorkshire Terrier,11,F,True,No change,,False,False,False,True,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+1141,0,Collie,12,M,True,No change,24.9,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True,True,False,False,False,False
+1142,0,West Highland White Terrier,7,F,False,Weight loss,9.3,False,False,False,False,True,True,True,False,False,False,False,True,False,True,,,False,False,False,False
+1143,0,Labrador Retriever,11,M,False,No change,54.7,False,False,False,False,False,False,False,True,True,True,False,False,False,False,True,True,False,False,False,False
+1144,0,Labrador Retriever,9,M,False,No change,,False,False,True,True,True,True,False,True,True,True,False,False,False,False,True,,False,False,False,False
+1145,0,Others,11,M,True,No change,12.2,False,True,False,True,False,False,False,False,False,True,False,False,False,False,True,,False,False,False,False
+1146,0,Jack Russell Terrier,16,F,False,No change,11.3,True,False,False,False,False,False,False,False,False,False,False,True,False,False,True,False,False,True,False,False
+1147,0,Crossbreed,8,M,True,Weight loss,10.8,True,True,False,True,False,False,False,False,False,True,False,True,True,False,True,True,False,False,False,False
+1148,0,Others,6,M,False,No change,34.2,False,False,False,False,True,True,False,False,False,False,False,False,False,False,,,False,False,False,False
+1149,0,Staffordshire Bull Terrier,12,F,True,No change,18.5,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,True,False,False,False,False
+1150,0,Others,10,F,True,No change,34.4,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True,,False,False,False,False
+1151,0,Others,11,M,True,No change,9.2,False,False,False,False,False,False,False,False,False,True,False,True,False,True,True,,False,False,False,False
+1152,0,Chihuahua,13,F,True,No change,8.6,False,False,False,False,False,False,False,False,False,True,False,True,True,False,True,False,False,False,False,False
+1153,0,Others,13,M,True,Weight loss,22.3,True,False,False,False,False,False,False,False,False,False,True,False,False,False,,,True,False,False,False
+1154,0,Others,14,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
+1155,0,Jack Russell Terrier,11,M,False,No change,11.2,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False
+1156,0,Crossbreed,9,M,True,Weight loss,14.35,False,True,False,False,True,True,False,True,False,True,False,True,False,True,True,False,False,False,False,False
+1157,0,Crossbreed,15,F,True,No change,,False,False,False,False,False,False,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+1158,0,Border Terrier,7,F,True,No change,9.42,True,False,False,False,False,False,False,False,True,False,False,True,True,False,,,False,False,False,False
+1159,0,Staffordshire Bull Terrier,12,F,True,No change,23.0,False,False,False,False,False,False,False,False,False,False,False,True,True,False,,,False,False,False,False
+1160,0,West Highland White Terrier,15,F,True,No change,9.4,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+1161,0,Crossbreed,14,F,True,Weight loss,17.5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,,,False,False,False,False
